@@ -1,5 +1,9 @@
 # Employee Data Analysis (Pandas)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+
+
 ## 📌 Objective
 Analyze employee dataset using pandas to extract insights.
 
