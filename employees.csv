@@ -1,0 +1,1001 @@
+First Name,Gender,Start Date,Last Login Time,Salary,Bonus %,Senior Management,Team,full_info,Rank
+Douglas,Male,1993-08-06,2026-06-26 12:42:00,97308,6.945,True,Marketing,Douglas Marketing,432
+Thomas,Male,1996-03-31,2026-06-26 06:53:00,61933,4.17,True,Unknown,Thomas Unknown,751
+Maria,Female,1993-04-23,2026-06-26 11:17:00,130590,11.858,False,Finance,Maria Finance,151
+Jerry,Male,2005-03-04,2026-06-26 13:00:00,138705,9.34,True,Finance,Jerry Finance,88
+Larry,Male,1998-01-24,2026-06-26 16:47:00,101004,1.389,True,Client Services,Larry Client Services,397
+Dennis,Male,1987-04-18,2026-06-26 01:35:00,115163,10.125,False,Legal,Dennis Legal,271
+Ruby,Female,1987-08-17,2026-06-26 16:20:00,65476,10.012,True,Product,Ruby Product,719
+,Female,2015-07-20,2026-06-26 10:43:00,45906,11.598,,Finance,,892
+Angela,Female,2005-11-22,2026-06-26 06:29:00,95570,18.523,True,Engineering,Angela Engineering,448
+Frances,Female,2002-08-08,2026-06-26 06:51:00,139852,7.524,True,Business Development,Frances Business Development,81
+Louise,Female,1980-08-12,2026-06-26 09:01:00,63241,15.132,True,Unknown,Louise Unknown,738
+Julie,Female,1997-10-26,2026-06-26 15:19:00,102508,12.637,True,Legal,Julie Legal,389
+Brandon,Male,1980-12-01,2026-06-26 01:08:00,112807,17.492,True,Human Resources,Brandon Human Resources,297
+Gary,Male,2008-01-27,2026-06-26 23:40:00,109831,5.831,False,Sales,Gary Sales,321
+Kimberly,Female,1999-01-14,2026-06-26 07:13:00,41426,14.543,True,Finance,Kimberly Finance,939
+Lillian,Female,2016-06-05,2026-06-26 06:09:00,59414,1.256,False,Product,Lillian Product,771
+Jeremy,Male,2010-09-21,2026-06-26 05:56:00,90370,7.369,False,Human Resources,Jeremy Human Resources,498
+Shawn,Male,1986-12-07,2026-06-26 19:45:00,111737,6.414,False,Product,Shawn Product,305
+Diana,Female,1981-10-23,2026-06-26 10:27:00,132940,19.082,False,Client Services,Diana Client Services,131
+Donna,Female,2010-07-22,2026-06-26 03:48:00,81014,1.894,False,Product,Donna Product,587
+Lois,Unknown,1995-04-22,2026-06-26 19:18:00,64714,4.934,True,Legal,Lois Legal,725
+Matthew,Male,1995-09-05,2026-06-26 02:12:00,100612,13.645,False,Marketing,Matthew Marketing,403
+Joshua,Unknown,2012-03-08,2026-06-26 01:58:00,90816,18.816,True,Client Services,Joshua Client Services,491
+,Male,2012-06-14,2026-06-26 16:19:00,125792,5.042,,Unknown,,180
+John,Male,1992-07-01,2026-06-26 22:08:00,97950,13.873,False,Client Services,John Client Services,422
+,Male,2012-10-08,2026-06-26 01:12:00,37076,18.576,,Client Services,,973
+Craig,Male,2000-02-27,2026-06-26 07:45:00,37598,7.757,True,Marketing,Craig Marketing,970
+Scott,Unknown,1991-07-11,2026-06-26 18:58:00,122367,5.218,False,Legal,Scott Legal,215
+Terry,Male,1981-11-27,2026-06-26 18:30:00,124008,13.464,True,Client Services,Terry Client Services,198
+Benjamin,Male,2005-01-26,2026-06-26 22:06:00,79529,7.008,True,Legal,Benjamin Legal,598
+Christina,Female,2002-08-06,2026-06-26 13:19:00,118780,9.096,True,Engineering,Christina Engineering,246
+Joyce,Unknown,2005-02-20,2026-06-26 14:40:00,88657,12.752,False,Product,Joyce Product,512
+,Male,1998-08-21,2026-06-26 14:27:00,122340,6.417,,Unknown,,216
+Jean,Female,1993-12-18,2026-06-26 09:07:00,119082,16.18,False,Business Development,Jean Business Development,242
+Jerry,Male,2004-01-10,2026-06-26 12:56:00,95734,19.096,False,Client Services,Jerry Client Services,446
+Theresa,Female,2006-10-10,2026-06-26 01:12:00,85182,16.675,False,Sales,Theresa Sales,548
+Rachel,Female,2009-02-16,2026-06-26 20:47:00,142032,12.599,False,Business Development,Rachel Business Development,57
+Linda,Female,1981-10-19,2026-06-26 20:49:00,57427,9.557,True,Client Services,Linda Client Services,793
+Stephanie,Female,1986-09-13,2026-06-26 01:52:00,36844,5.574,True,Business Development,Stephanie Business Development,977
+,Male,2016-01-29,2026-06-26 02:33:00,122173,7.797,,Client Services,,218
+Michael,Male,2008-10-10,2026-06-26 11:25:00,99283,2.665,True,Distribution,Michael Distribution,409
+Christine,Unknown,2015-06-28,2026-06-26 01:08:00,66582,11.308,True,Business Development,Christine Business Development,708
+Beverly,Female,1998-09-09,2026-06-26 20:26:00,121918,15.835,False,Legal,Beverly Legal,220
+Marilyn,Female,1980-12-07,2026-06-26 03:16:00,73524,5.207,True,Marketing,Marilyn Marketing,646
+Cynthia,Female,1988-11-16,2026-06-26 18:54:00,145146,7.482,True,Product,Cynthia Product,35
+Roger,Male,1980-04-17,2026-06-26 11:32:00,88010,13.886,True,Sales,Roger Sales,515
+Bruce,Male,2009-11-28,2026-06-26 22:47:00,114796,6.796,False,Finance,Bruce Finance,278
+Kathy,Female,2005-06-22,2026-06-26 04:51:00,66820,9.0,True,Client Services,Kathy Client Services,703
+Clarence,Male,1996-03-26,2026-06-26 05:57:00,93581,6.083,True,Business Development,Clarence Business Development,467
+Chris,Unknown,1980-01-24,2026-06-26 12:13:00,113590,3.055,False,Sales,Chris Sales,290
+Nancy,Female,2000-09-23,2026-06-26 08:05:00,94976,13.83,True,Engineering,Nancy Engineering,455
+,Unknown,2011-12-17,2026-06-26 08:29:00,41126,14.009,,Sales,,944
+Todd,Male,1990-02-18,2026-06-26 02:41:00,49339,1.695,True,Human Resources,Todd Human Resources,856
+Alan,Unknown,2014-03-03,2026-06-26 13:28:00,40341,17.578,True,Finance,Alan Finance,948
+Sara,Female,2007-08-15,2026-06-26 09:23:00,83677,8.999,False,Engineering,Sara Engineering,562
+Karen,Female,1999-11-30,2026-06-26 07:46:00,102488,17.653,True,Product,Karen Product,390
+Carl,Male,2006-05-03,2026-06-26 17:55:00,130276,16.084,True,Finance,Carl Finance,154
+Henry,Male,1996-06-26,2026-06-26 01:44:00,64715,15.107,True,Human Resources,Henry Human Resources,724
+Theresa,Female,2010-04-11,2026-06-26 07:18:00,72670,1.481,True,Engineering,Theresa Engineering,652
+Irene,Female,1997-05-07,2026-06-26 09:32:00,66851,11.279,False,Engineering,Irene Engineering,702
+Paula,Unknown,2005-11-23,2026-06-26 14:01:00,48866,4.271,False,Distribution,Paula Distribution,859
+Denise,Female,2001-11-06,2026-06-26 12:03:00,106862,3.699,False,Business Development,Denise Business Development,345
+,Female,2007-06-12,2026-06-26 17:25:00,58112,19.414,,Marketing,,787
+Matthew,Male,2013-01-02,2026-06-26 22:33:00,35203,18.04,False,Human Resources,Matthew Human Resources,992
+Kathleen,Unknown,1990-04-11,2026-06-26 18:46:00,77834,18.771,False,Business Development,Kathleen Business Development,610
+Steve,Male,2009-11-11,2026-06-26 23:44:00,61310,12.428,True,Distribution,Steve Distribution,753
+Nancy,Female,2012-12-15,2026-06-26 23:57:00,125250,2.672,True,Business Development,Nancy Business Development,186
+Rachel,Female,1999-08-16,2026-06-26 06:53:00,51178,9.735,True,Finance,Rachel Finance,836
+Jose,Male,2004-10-30,2026-06-26 13:39:00,84834,14.33,True,Finance,Jose Finance,551
+Irene,Unknown,2015-07-14,2026-06-26 16:31:00,100863,4.382,True,Finance,Irene Finance,400
+Todd,Unknown,2003-06-10,2026-06-26 14:26:00,84692,6.617,False,Client Services,Todd Client Services,555
+Johnny,Male,2009-11-06,2026-06-26 16:23:00,118172,16.194,True,Sales,Johnny Sales,252
+Bobby,Male,2007-05-07,2026-06-26 10:01:00,54043,3.833,False,Product,Bobby Product,812
+Frances,Female,1999-04-04,2026-06-26 16:19:00,90582,4.709,True,Sales,Frances Sales,494
+Thomas,Male,1995-06-04,2026-06-26 14:24:00,62096,17.029,False,Marketing,Thomas Marketing,749
+Bonnie,Female,1991-07-02,2026-06-26 01:27:00,104897,5.118,True,Human Resources,Bonnie Human Resources,361
+Margaret,Female,1988-09-10,2026-06-26 12:42:00,131604,7.353,True,Distribution,Margaret Distribution,144
+Charles,Male,2004-09-14,2026-06-26 20:13:00,107391,1.26,True,Marketing,Charles Marketing,336
+Robin,Female,1983-06-04,2026-06-26 15:15:00,114797,5.965,True,Sales,Robin Sales,277
+Bonnie,Female,1988-11-13,2026-06-26 15:30:00,115814,4.99,False,Product,Bonnie Product,262
+Gerald,Unknown,1995-03-17,2026-06-26 00:50:00,137126,15.602,True,Sales,Gerald Sales,99
+Christopher,Male,2008-03-30,2026-06-26 10:52:00,47369,14.822,False,Legal,Christopher Legal,871
+Steven,Male,1980-03-30,2026-06-26 21:20:00,35095,8.379,True,Client Services,Steven Client Services,993
+Shawn,Male,2005-09-23,2026-06-26 02:55:00,148115,6.539,True,Finance,Shawn Finance,14
+Doris,Female,2004-08-20,2026-06-26 05:51:00,83072,7.511,False,Finance,Doris Finance,567
+Jeremy,Male,2008-02-01,2026-06-26 08:50:00,100238,3.887,True,Client Services,Jeremy Client Services,406
+Annie,Unknown,2007-09-29,2026-06-26 00:11:00,103495,17.29,True,Business Development,Annie Business Development,376
+Annie,Female,1993-01-30,2026-06-26 02:05:00,144887,8.276,True,Sales,Annie Sales,37
+Donna,Female,1991-11-27,2026-06-26 13:59:00,64088,6.155,True,Legal,Donna Legal,731
+Janice,Female,2016-03-12,2026-06-26 00:40:00,51082,11.955,False,Legal,Janice Legal,837
+Janice,Unknown,1997-08-21,2026-06-26 05:12:00,91719,11.583,True,Legal,Janice Legal,479
+James,Unknown,2005-01-26,2026-06-26 23:00:00,128771,8.309,False,Unknown,James Unknown,162
+Linda,Female,2000-05-25,2026-06-26 17:45:00,119009,12.506,True,Business Development,Linda Business Development,243
+Virginia,Unknown,1994-05-07,2026-06-26 17:58:00,111858,1.601,True,Legal,Virginia Legal,303
+Harry,Male,1981-08-26,2026-06-26 15:16:00,130620,7.03,False,Legal,Harry Legal,150
+Heather,Female,1998-07-11,2026-06-26 14:17:00,43026,14.166,False,Client Services,Heather Client Services,916
+Cynthia,Female,1994-03-21,2026-06-26 08:34:00,142321,1.737,False,Finance,Cynthia Finance,54
+Laura,Unknown,2014-07-19,2026-06-26 21:23:00,140371,10.62,True,Marketing,Laura Marketing,73
+Tina,Female,2016-06-16,2026-06-26 19:47:00,100705,16.961,True,Marketing,Tina Marketing,402
+Harold,Male,1985-01-02,2026-06-26 21:40:00,77544,12.447,False,Business Development,Harold Business Development,611
+Melissa,Female,2005-06-21,2026-06-26 06:33:00,48109,14.995,False,Finance,Melissa Finance,864
+Aaron,Male,2012-02-17,2026-06-26 10:20:00,61602,11.849,True,Marketing,Aaron Marketing,752
+Jack,Male,1997-01-12,2026-06-26 05:51:00,103902,12.159,False,Client Services,Jack Client Services,370
+Phyllis,Female,1996-10-11,2026-06-26 21:30:00,136984,8.932,True,Finance,Phyllis Finance,100
+John,Male,1989-12-23,2026-06-26 07:01:00,80740,19.305,False,Marketing,John Marketing,590
+Kathy,Female,1996-03-09,2026-06-26 04:33:00,91712,8.567,False,Finance,Kathy Finance,480
+Paul,Male,1993-08-04,2026-06-26 19:25:00,42146,3.046,False,Legal,Paul Legal,926
+Steven,Male,2013-04-23,2026-06-26 22:12:00,68680,16.565,False,Legal,Steven Legal,689
+Russell,Unknown,1988-05-05,2026-06-26 07:57:00,133980,12.396,True,Legal,Russell Legal,125
+Christopher,Male,2000-04-22,2026-06-26 10:15:00,37919,11.449,False,Unknown,Christopher Unknown,965
+Shirley,Female,2001-06-20,2026-06-26 22:39:00,147113,16.135,False,Legal,Shirley Legal,22
+Bonnie,Female,1999-12-17,2026-06-26 15:12:00,42153,8.454,True,Business Development,Bonnie Business Development,925
+Willie,Male,2003-11-27,2026-06-26 06:21:00,64363,4.023,False,Marketing,Willie Marketing,727
+Tina,Female,2009-06-12,2026-06-26 07:16:00,114767,3.711,True,Engineering,Tina Engineering,279
+Ashley,Female,2002-08-04,2026-06-26 11:00:00,58698,6.811,True,Business Development,Ashley Business Development,777
+Pamela,Female,1982-07-01,2026-06-26 06:51:00,54585,4.166,False,Product,Pamela Product,810
+,Male,1991-06-22,2026-06-26 20:58:00,76189,18.988,,Legal,,619
+Steven,Male,1995-03-01,2026-06-26 15:03:00,109095,9.494,False,Finance,Steven Finance,331
+Andrea,Female,2012-01-12,2026-06-26 05:43:00,120204,9.557,False,Business Development,Andrea Business Development,238
+Paul,Male,2008-06-03,2026-06-26 15:05:00,41054,12.299,False,Marketing,Paul Marketing,945
+Peter,Male,1994-11-17,2026-06-26 18:15:00,84885,15.402,False,Business Development,Peter Business Development,550
+Kathleen,Unknown,2016-05-09,2026-06-26 08:55:00,119735,18.74,False,Product,Kathleen Product,239
+Christina,Female,2012-04-13,2026-06-26 14:04:00,110169,13.892,True,Engineering,Christina Engineering,318
+Helen,Female,2001-11-29,2026-06-26 02:30:00,73789,14.841,True,Product,Helen Product,642
+Marilyn,Female,1983-11-16,2026-06-26 08:29:00,76078,2.401,True,Product,Marilyn Product,620
+Patricia,Female,2003-09-01,2026-06-26 06:46:00,49368,14.226,False,Human Resources,Patricia Human Resources,855
+Michelle,Female,1984-03-30,2026-06-26 18:43:00,57325,17.179,True,Human Resources,Michelle Human Resources,794
+William,Male,2002-09-29,2026-06-26 16:09:00,66521,5.83,False,Human Resources,William Human Resources,709
+Kenneth,Male,1987-08-25,2026-06-26 21:16:00,127654,16.439,True,Client Services,Kenneth Client Services,170
+Antonio,Male,1988-10-25,2026-06-26 13:50:00,60866,13.101,True,Business Development,Antonio Business Development,756
+Shirley,Female,1984-05-01,2026-06-26 13:15:00,41334,6.219,True,Human Resources,Shirley Human Resources,940
+Rebecca,Female,1992-07-10,2026-06-26 00:23:00,94231,17.517,False,Product,Rebecca Product,460
+Carlos,Male,1995-01-04,2026-06-26 07:02:00,146670,10.763,False,Human Resources,Carlos Human Resources,25
+Lois,Female,1987-12-25,2026-06-26 16:16:00,106317,2.235,True,Client Services,Lois Client Services,351
+Carolyn,Female,2011-04-09,2026-06-26 05:38:00,109260,2.65,True,Business Development,Carolyn Business Development,329
+Gloria,Female,2007-06-29,2026-06-26 05:34:00,134148,8.833,True,Legal,Gloria Legal,122
+Henry,Male,1995-04-24,2026-06-26 04:18:00,43542,19.687,False,Legal,Henry Legal,909
+Adam,Male,2011-05-21,2026-06-26 01:45:00,95327,15.12,False,Distribution,Adam Distribution,450
+Ashley,Female,2006-05-25,2026-06-26 11:30:00,112238,6.03,True,Engineering,Ashley Engineering,301
+,Female,1990-10-03,2026-06-26 01:08:00,132373,10.527,,Unknown,,136
+Shirley,Female,1981-02-28,2026-06-26 13:23:00,113850,1.854,False,Marketing,Shirley Marketing,286
+Adam,Male,1990-12-24,2026-06-26 20:57:00,110194,14.727,True,Product,Adam Product,317
+Elizabeth,Female,2003-10-09,2026-06-26 17:53:00,146129,5.687,False,Finance,Elizabeth Finance,29
+Teresa,Unknown,2016-01-28,2026-06-26 10:55:00,140013,8.689,True,Engineering,Teresa Engineering,77
+Nicole,Unknown,1982-03-05,2026-06-26 14:28:00,122717,12.452,False,Sales,Nicole Sales,214
+Jennifer,Female,2009-04-04,2026-06-26 22:47:00,71715,13.079,True,Client Services,Jennifer Client Services,665
+Patricia,Female,1992-11-25,2026-06-26 02:24:00,95322,4.15,False,Product,Patricia Product,451
+Philip,Male,2008-07-17,2026-06-26 13:30:00,89227,3.996,False,Legal,Philip Legal,510
+Patrick,Unknown,1991-07-14,2026-06-26 02:24:00,124488,14.837,True,Sales,Patrick Sales,194
+,Female,2014-08-17,2026-06-26 14:00:00,86230,8.578,,Distribution,,534
+Sean,Male,1996-05-04,2026-06-26 20:59:00,135490,19.934,False,Marketing,Sean Marketing,110
+Brandon,Unknown,1997-11-03,2026-06-26 20:17:00,121333,15.295,False,Business Development,Brandon Business Development,228
+Ruth,Female,1999-08-19,2026-06-26 04:03:00,129297,8.067,True,Client Services,Ruth Client Services,160
+Victor,Unknown,2011-03-10,2026-06-26 20:40:00,84546,10.489,True,Finance,Victor Finance,557
+Rebecca,Female,1980-11-15,2026-06-26 04:13:00,85730,5.359,True,Product,Rebecca Product,540
+Marie,Female,2003-03-16,2026-06-26 00:12:00,104058,17.695,True,Business Development,Marie Business Development,368
+Howard,Male,1992-04-27,2026-06-26 01:10:00,105062,1.563,False,Human Resources,Howard Human Resources,360
+,Female,2005-07-27,2026-06-26 08:32:00,79536,14.443,,Product,,597
+Norma,Female,1999-02-28,2026-06-26 20:45:00,114412,8.756,True,Marketing,Norma Marketing,280
+James,Unknown,1983-11-22,2026-06-26 22:52:00,68501,14.316,False,Marketing,James Marketing,690
+Kathy,Female,2000-03-18,2026-06-26 19:26:00,149563,16.991,True,Finance,Kathy Finance,5
+Marilyn,Unknown,1999-08-22,2026-06-26 09:09:00,103386,11.451,False,Distribution,Marilyn Distribution,378
+Arthur,Male,1998-04-13,2026-06-26 11:28:00,89786,14.422,True,Legal,Arthur Legal,503
+Terry,Male,1990-09-03,2026-06-26 21:15:00,52226,19.135,False,Client Services,Terry Client Services,823
+Mary,Female,1999-08-13,2026-06-26 01:03:00,134645,18.197,False,Business Development,Mary Business Development,117
+,Female,2014-03-23,2026-06-26 13:28:00,59148,9.061,,Legal,,773
+,Female,1991-07-09,2026-06-26 18:52:00,42341,7.014,,Sales,,922
+Christopher,Male,2011-12-24,2026-06-26 12:22:00,142178,17.984,True,Sales,Christopher Sales,56
+Peter,Unknown,1987-09-03,2026-06-26 17:59:00,38989,7.017,True,Marketing,Peter Marketing,955
+Michelle,Female,1996-11-04,2026-06-26 21:34:00,53754,5.455,True,Product,Michelle Product,815
+Irene,Female,1992-01-29,2026-06-26 11:36:00,133772,19.02,True,Sales,Irene Sales,127
+Patrick,Male,2007-08-17,2026-06-26 03:16:00,143499,17.495,True,Engineering,Patrick Engineering,47
+Sara,Female,1991-09-23,2026-06-26 18:17:00,97058,9.402,False,Finance,Sara Finance,433
+Lillian,Female,2008-12-21,2026-06-26 18:51:00,85446,3.959,True,Engineering,Lillian Engineering,545
+,Unknown,2007-09-18,2026-06-26 18:59:00,40297,6.185,,Client Services,,949
+Willie,Male,1998-02-17,2026-06-26 20:20:00,146651,1.451,True,Engineering,Willie Engineering,26
+Victor,Male,2003-01-08,2026-06-26 13:02:00,124486,10.166,False,Product,Victor Product,195
+Wayne,Male,2012-04-07,2026-06-26 08:00:00,102652,14.085,True,Distribution,Wayne Distribution,384
+Jane,Female,1997-09-03,2026-06-26 02:01:00,144474,17.648,False,Product,Jane Product,41
+Jessica,Female,1995-10-23,2026-06-26 05:53:00,68759,19.343,True,Finance,Jessica Finance,688
+Mark,Male,2008-04-12,2026-06-26 17:40:00,57286,5.025,True,Business Development,Mark Business Development,797
+Randy,Male,1999-11-14,2026-06-26 12:12:00,58129,1.952,True,Distribution,Randy Distribution,786
+Lillian,Female,1999-06-19,2026-06-26 16:44:00,123940,12.184,True,Business Development,Lillian Business Development,200
+Ruth,Unknown,1999-05-18,2026-06-26 05:56:00,98233,2.518,True,Distribution,Ruth Distribution,421
+Jerry,Male,2003-12-18,2026-06-26 06:46:00,140810,9.177,True,Client Services,Jerry Client Services,69
+Sandra,Female,1983-01-19,2026-06-26 07:25:00,42090,8.842,True,Legal,Sandra Legal,927
+,Female,2005-02-23,2026-06-26 21:50:00,149654,1.825,,Sales,,4
+Roger,Male,2004-11-19,2026-06-26 15:55:00,51430,6.46,False,Marketing,Roger Marketing,834
+Charles,Male,2000-10-14,2026-06-26 21:40:00,71749,15.931,False,Legal,Charles Legal,664
+Clarence,Male,1998-05-02,2026-06-26 03:16:00,85700,1.215,False,Sales,Clarence Sales,542
+Carol,Female,1996-03-19,2026-06-26 03:39:00,57783,9.129,False,Finance,Carol Finance,791
+Lois,Female,2013-10-18,2026-06-26 16:51:00,36946,6.652,False,Engineering,Lois Engineering,975
+Barbara,Unknown,2003-05-03,2026-06-26 19:32:00,99326,16.475,True,Legal,Barbara Legal,408
+Rebecca,Female,1995-02-18,2026-06-26 06:50:00,109259,4.443,True,Legal,Rebecca Legal,330
+Irene,Female,2004-01-30,2026-06-26 20:25:00,131038,8.996,False,Distribution,Irene Distribution,149
+Ronald,Male,2014-04-30,2026-06-26 14:19:00,121068,12.757,True,Product,Ronald Product,232
+Steven,Male,1985-11-10,2026-06-26 10:53:00,62719,19.127,False,Client Services,Steven Client Services,744
+Carolyn,Female,2012-11-06,2026-06-26 03:51:00,69268,3.031,False,Client Services,Carolyn Client Services,682
+Maria,Female,1990-12-27,2026-06-26 21:57:00,36067,9.64,True,Product,Maria Product,985
+Jonathan,Male,2009-07-17,2026-06-26 08:15:00,130581,16.736,True,Unknown,Jonathan Unknown,152
+Gary,Male,1987-08-12,2026-06-26 00:04:00,89661,8.525,False,Finance,Gary Finance,506
+Kimberly,Female,1997-07-15,2026-06-26 05:57:00,36643,7.953,False,Marketing,Kimberly Marketing,983
+Roger,Male,1982-11-08,2026-06-26 02:32:00,140558,5.084,True,Sales,Roger Sales,70
+Diana,Female,2013-01-04,2026-06-26 07:53:00,103521,2.784,True,Business Development,Diana Business Development,375
+Willie,Male,2006-06-06,2026-06-26 09:45:00,55281,4.935,True,Marketing,Willie Marketing,806
+Brandon,Male,2006-03-27,2026-06-26 17:54:00,115711,8.012,True,Finance,Brandon Finance,263
+Patricia,Female,2012-12-06,2026-06-26 04:01:00,114079,8.399,True,Client Services,Patricia Client Services,285
+Katherine,Female,1999-11-14,2026-06-26 08:15:00,57531,1.767,False,Client Services,Katherine Client Services,792
+Jonathan,Male,1987-10-12,2026-06-26 02:59:00,141069,4.903,False,Human Resources,Jonathan Human Resources,66
+Emily,Female,2007-09-20,2026-06-26 11:25:00,89434,11.295,False,Engineering,Emily Engineering,508
+Ruth,Female,1986-08-12,2026-06-26 19:29:00,44639,9.148,True,Legal,Ruth Legal,903
+Linda,Female,2006-06-24,2026-06-26 12:04:00,110967,19.612,True,Human Resources,Linda Human Resources,313
+Lisa,Female,2009-11-02,2026-06-26 09:42:00,115387,1.821,False,Client Services,Lisa Client Services,268
+Evelyn,Female,1980-05-24,2026-06-26 23:10:00,81673,15.364,True,Engineering,Evelyn Engineering,580
+Julie,Female,1989-07-23,2026-06-26 13:52:00,109588,3.55,False,Engineering,Julie Engineering,322
+Mary,Female,2009-05-30,2026-06-26 23:41:00,92544,3.8,False,Client Services,Mary Client Services,474
+Matthew,Male,2013-07-31,2026-06-26 08:04:00,142373,2.462,False,Marketing,Matthew Marketing,53
+Douglas,Male,1999-09-03,2026-06-26 16:00:00,83341,1.015,True,Client Services,Douglas Client Services,564
+Gregory,Unknown,1992-06-15,2026-06-26 05:08:00,98865,10.628,True,Finance,Gregory Finance,412
+Billy,Male,1995-03-13,2026-06-26 12:05:00,120444,7.768,True,Finance,Billy Finance,237
+,Female,1991-06-17,2026-06-26 12:49:00,71945,5.56,,Marketing,,659
+Gregory,Male,2000-01-29,2026-06-26 06:01:00,109564,3.845,False,Legal,Gregory Legal,323
+Jason,Male,1999-10-17,2026-06-26 22:09:00,78417,3.067,False,Finance,Jason Finance,606
+Daniel,Male,2010-04-30,2026-06-26 03:48:00,106947,15.866,True,Legal,Daniel Legal,344
+Sarah,Female,1995-09-14,2026-06-26 07:50:00,87298,2.311,False,Distribution,Sarah Distribution,521
+Harry,Male,2015-10-01,2026-06-26 19:47:00,64579,15.266,True,Sales,Harry Sales,726
+Kathy,Female,1995-04-19,2026-06-26 00:46:00,50905,9.404,True,Finance,Kathy Finance,840
+Todd,Male,1999-04-13,2026-06-26 10:31:00,59728,11.226,True,Client Services,Todd Client Services,768
+Bobby,Male,1994-09-23,2026-06-26 01:29:00,51685,17.445,True,Engineering,Bobby Engineering,828
+Jeremy,Male,2000-06-08,2026-06-26 00:15:00,49542,1.679,True,Distribution,Jeremy Distribution,851
+George,Unknown,1988-02-24,2026-06-26 11:29:00,38375,8.999,False,Legal,George Legal,958
+Diane,Female,1993-04-18,2026-06-26 03:22:00,64084,17.018,False,Product,Diane Product,732
+Marilyn,Female,1997-04-04,2026-06-26 21:28:00,147663,10.263,False,Human Resources,Marilyn Human Resources,16
+Kathryn,Female,2004-02-04,2026-06-26 13:47:00,73935,14.752,False,Sales,Kathryn Sales,641
+Irene,Female,1982-02-04,2026-06-26 17:26:00,40837,12.182,True,Client Services,Irene Client Services,946
+Norma,Female,2015-02-11,2026-06-26 23:44:00,94393,3.643,True,Engineering,Norma Engineering,458
+Laura,Female,2006-04-02,2026-06-26 13:57:00,42087,2.624,False,Product,Laura Product,928
+Cheryl,Female,2008-09-23,2026-06-26 02:57:00,52080,9.375,False,Legal,Cheryl Legal,825
+Kevin,Male,1982-03-25,2026-06-26 07:31:00,35061,5.128,False,Legal,Kevin Legal,994
+Lillian,Unknown,2016-05-12,2026-06-26 15:43:00,64164,17.612,False,Human Resources,Lillian Human Resources,730
+Phyllis,Unknown,1984-04-21,2026-06-26 19:05:00,94088,19.107,False,Distribution,Phyllis Distribution,461
+Walter,Male,1983-07-06,2026-06-26 23:54:00,127813,5.961,False,Finance,Walter Finance,169
+Robert,Male,1990-10-27,2026-06-26 19:15:00,38041,18.428,True,Engineering,Robert Engineering,963
+Jimmy,Male,1986-10-07,2026-06-26 17:53:00,126310,5.413,True,Product,Jimmy Product,175
+Clarence,Male,1996-10-08,2026-06-26 12:53:00,142561,8.866,False,Client Services,Clarence Client Services,50
+Victor,Male,1991-04-11,2026-06-26 07:44:00,70817,17.138,False,Engineering,Victor Engineering,672
+Fred,Unknown,1984-12-02,2026-06-26 14:03:00,59937,12.045,True,Human Resources,Fred Human Resources,766
+Brenda,Unknown,2010-07-27,2026-06-26 23:07:00,106115,3.742,True,Product,Brenda Product,354
+Justin,Male,1992-12-06,2026-06-26 17:58:00,82782,4.366,True,Distribution,Justin Distribution,571
+Betty,Female,2002-06-12,2026-06-26 03:59:00,104896,19.55,True,Business Development,Betty Business Development,362
+Randy,Unknown,1986-02-06,2026-06-26 15:04:00,133943,8.94,True,Sales,Randy Sales,126
+Sharon,Unknown,1990-03-01,2026-06-26 03:46:00,83658,6.513,False,Business Development,Sharon Business Development,563
+Ralph,Male,2004-11-11,2026-06-26 01:35:00,71896,4.232,True,Marketing,Ralph Marketing,661
+,Unknown,2003-04-28,2026-06-26 03:01:00,113732,10.391,,Sales,,288
+Edward,Male,1985-05-27,2026-06-26 22:13:00,110485,7.995,False,Client Services,Edward Client Services,315
+Denise,Female,2009-03-20,2026-06-26 07:57:00,115118,5.108,False,Human Resources,Denise Human Resources,274
+Debra,Female,1998-03-13,2026-06-26 23:16:00,48696,4.75,False,Legal,Debra Legal,860
+,Male,1999-11-25,2026-06-26 06:16:00,42676,15.517,,Sales,,918
+Michael,Male,2002-01-24,2026-06-26 03:04:00,43586,12.659,False,Unknown,Michael Unknown,908
+Henry,Male,1995-02-06,2026-06-26 08:34:00,89258,15.585,True,Human Resources,Henry Human Resources,509
+Gloria,Female,2007-03-27,2026-06-26 01:44:00,90730,2.491,False,Distribution,Gloria Distribution,492
+Marie,Female,1995-08-06,2026-06-26 13:58:00,100308,13.677,False,Product,Marie Product,405
+Anne,Female,1986-07-16,2026-06-26 14:08:00,69134,3.723,True,Engineering,Anne Engineering,685
+Sarah,Unknown,1985-11-21,2026-06-26 13:08:00,58295,14.603,True,Engineering,Sarah Engineering,784
+Stephanie,Female,1983-03-24,2026-06-26 11:15:00,50141,13.218,True,Human Resources,Stephanie Human Resources,849
+Roy,Male,2004-09-23,2026-06-26 13:31:00,101941,3.45,False,Client Services,Roy Client Services,392
+,Female,2009-08-05,2026-06-26 08:14:00,115145,14.063,,Distribution,,273
+,Male,2005-02-04,2026-06-26 13:01:00,40451,16.044,,Distribution,,947
+Irene,Female,1982-03-03,2026-06-26 08:26:00,56526,5.81,True,Finance,Irene Finance,803
+,Female,1992-08-02,2026-06-26 20:35:00,145316,18.517,,Human Resources,,33
+Thomas,Male,2011-04-06,2026-06-26 13:04:00,103235,9.554,True,Human Resources,Thomas Human Resources,379
+Frank,Unknown,2001-11-20,2026-06-26 10:18:00,58563,12.062,True,Marketing,Frank Marketing,778
+Fred,Male,1980-02-20,2026-06-26 02:25:00,74129,18.225,False,Product,Fred Product,638
+Nicholas,Male,1994-04-12,2026-06-26 20:21:00,74669,1.113,True,Product,Nicholas Product,635
+Howard,Male,1982-10-05,2026-06-26 07:22:00,97490,5.46,True,Marketing,Howard Marketing,427
+Debra,Female,1994-02-22,2026-06-26 22:25:00,104250,18.456,True,Business Development,Debra Business Development,367
+Christine,Female,1989-07-03,2026-06-26 04:01:00,94345,11.996,False,Finance,Christine Finance,459
+Brenda,Unknown,1991-05-29,2026-06-26 06:32:00,82439,19.062,False,Sales,Brenda Sales,574
+Betty,Female,2005-06-28,2026-06-26 18:03:00,51613,12.984,False,Distribution,Betty Distribution,831
+Ruby,Female,2000-11-08,2026-06-26 19:35:00,105946,1.139,False,Business Development,Ruby Business Development,355
+Kevin,Male,1997-07-12,2026-06-26 02:07:00,46080,9.635,False,Business Development,Kevin Business Development,890
+Arthur,Male,2014-01-01,2026-06-26 19:46:00,134610,6.147,True,Human Resources,Arthur Human Resources,118
+Carl,Unknown,2014-02-07,2026-06-26 03:57:00,125104,12.345,False,Client Services,Carl Client Services,188
+Todd,Male,2009-03-11,2026-06-26 03:43:00,107281,1.612,True,Engineering,Todd Engineering,338
+Brenda,Female,2005-10-06,2026-06-26 21:33:00,141521,4.337,False,Client Services,Brenda Client Services,60
+Judy,Female,1997-09-16,2026-06-26 00:10:00,65931,2.304,False,Human Resources,Judy Human Resources,716
+Todd,Male,1984-02-02,2026-06-26 10:13:00,69989,10.985,True,Finance,Todd Finance,677
+Lois,Female,2011-11-09,2026-06-26 07:06:00,147183,9.999,True,Client Services,Lois Client Services,21
+Walter,Unknown,1999-12-21,2026-06-26 22:33:00,66757,18.099,False,Distribution,Walter Distribution,706
+Jessica,Female,1985-09-27,2026-06-26 13:35:00,75145,6.388,True,Legal,Jessica Legal,633
+Jeremy,Male,1988-06-14,2026-06-26 18:20:00,129460,13.657,True,Unknown,Jeremy Unknown,159
+Tammy,Female,1984-11-11,2026-06-26 10:30:00,132839,17.463,True,Client Services,Tammy Client Services,132
+Anne,Female,2000-03-07,2026-06-26 06:45:00,44537,18.284,True,Client Services,Anne Client Services,904
+Jesse,Male,1999-10-25,2026-06-26 15:35:00,118733,9.653,False,Marketing,Jesse Marketing,249
+Virginia,Female,1999-10-20,2026-06-26 06:23:00,46905,19.154,False,Distribution,Virginia Distribution,879
+Jesse,Male,1981-03-02,2026-06-26 19:26:00,79582,3.873,False,Legal,Jesse Legal,596
+Jeremy,Unknown,1996-11-10,2026-06-26 13:49:00,55394,3.18,True,Sales,Jeremy Sales,805
+Daniel,Male,2007-09-15,2026-06-26 22:16:00,123811,7.664,True,Human Resources,Daniel Human Resources,202
+Patrick,Unknown,2004-08-30,2026-06-26 11:43:00,137314,4.542,True,Marketing,Patrick Marketing,96
+Emily,Female,1988-01-13,2026-06-26 06:42:00,36711,19.028,True,Human Resources,Emily Human Resources,981
+Alan,Male,1988-06-26,2026-06-26 03:54:00,111786,3.592,True,Engineering,Alan Engineering,304
+James,Male,2015-07-11,2026-06-26 20:52:00,72257,13.023,False,Engineering,James Engineering,654
+Adam,Male,2007-07-05,2026-06-26 11:59:00,71276,5.027,True,Human Resources,Adam Human Resources,670
+Joan,Unknown,1980-07-25,2026-06-26 12:22:00,38712,3.657,False,Client Services,Joan Client Services,957
+Jeremy,Male,1981-08-12,2026-06-26 00:05:00,46930,18.702,True,Finance,Jeremy Finance,878
+Margaret,Female,1993-02-06,2026-06-26 13:05:00,125220,3.733,False,Marketing,Margaret Marketing,187
+Mark,Male,1984-04-01,2026-06-26 13:21:00,121477,17.44,True,Business Development,Mark Business Development,226
+Marilyn,Female,1981-09-26,2026-06-26 02:23:00,86386,2.937,False,Distribution,Marilyn Distribution,531
+Cheryl,Female,2009-09-08,2026-06-26 10:16:00,81308,2.196,True,Legal,Cheryl Legal,582
+Benjamin,Male,1984-09-11,2026-06-26 06:37:00,84810,15.794,False,Marketing,Benjamin Marketing,552
+Harold,Male,1990-02-20,2026-06-26 23:00:00,66775,2.158,True,Legal,Harold Legal,705
+Ernest,Unknown,2002-01-18,2026-06-26 01:51:00,72145,13.448,True,Finance,Ernest Finance,655
+Gerald,Male,2001-04-16,2026-06-26 22:09:00,121604,1.923,True,Sales,Gerald Sales,224
+Judy,Female,1991-07-01,2026-06-26 02:33:00,109510,13.457,True,Legal,Judy Legal,325
+Bobby,Male,1996-03-31,2026-06-26 17:40:00,112117,6.338,False,Unknown,Bobby Unknown,302
+Bobby,Unknown,1995-09-01,2026-06-26 14:09:00,108127,15.858,False,Client Services,Bobby Client Services,334
+Marie,Female,2013-10-03,2026-06-26 20:05:00,123711,10.966,False,Product,Marie Product,203
+Kathy,Female,2013-12-18,2026-06-26 15:09:00,132381,8.34,False,Business Development,Kathy Business Development,135
+Roy,Male,2006-08-06,2026-06-26 07:52:00,148225,1.841,False,Finance,Roy Finance,13
+Jacqueline,Female,1981-11-25,2026-06-26 15:01:00,145988,18.243,False,Marketing,Jacqueline Marketing,30
+,Female,2008-07-08,2026-06-26 23:40:00,62960,14.356,,Sales,,742
+Julie,Female,1986-03-23,2026-06-26 09:26:00,56926,7.507,False,Sales,Julie Sales,801
+Douglas,Male,2002-01-08,2026-06-26 18:42:00,41428,14.372,False,Product,Douglas Product,937
+Linda,Female,1990-12-16,2026-06-26 02:20:00,115658,3.041,True,Sales,Linda Sales,264
+Ruby,Female,1988-12-10,2026-06-26 20:27:00,76707,6.031,False,Business Development,Ruby Business Development,614
+Russell,Male,2005-01-02,2026-06-26 01:48:00,60388,17.885,False,Client Services,Russell Client Services,759
+Jeffrey,Male,1997-06-18,2026-06-26 20:01:00,45150,12.075,True,Product,Jeffrey Product,899
+Aaron,Male,1994-01-29,2026-06-26 18:48:00,58755,5.097,True,Marketing,Aaron Marketing,776
+Samuel,Male,1991-12-19,2026-06-26 02:54:00,76076,5.319,True,Finance,Samuel Finance,621
+,Male,2010-01-27,2026-06-26 02:57:00,87760,14.987,,Engineering,,516
+Randy,Male,2014-03-16,2026-06-26 18:24:00,135119,7.887,False,Client Services,Randy Client Services,113
+Evelyn,Female,1983-09-03,2026-06-26 13:58:00,36759,17.269,True,Marketing,Evelyn Marketing,979
+Fred,Male,1987-02-13,2026-06-26 14:15:00,121723,18.645,True,Product,Fred Product,223
+Shirley,Female,1986-06-08,2026-06-26 02:25:00,110061,7.494,False,Client Services,Shirley Client Services,319
+Todd,Male,2011-05-23,2026-06-26 16:14:00,85074,1.844,False,Client Services,Todd Client Services,549
+Robert,Male,2014-11-18,2026-06-26 05:00:00,85799,19.93,False,Finance,Robert Finance,538
+Mark,Male,2007-01-22,2026-06-26 14:37:00,75150,12.182,True,Legal,Mark Legal,631
+Earl,Male,2000-01-05,2026-06-26 17:46:00,91344,4.035,True,Sales,Earl Sales,485
+Richard,Male,2005-09-27,2026-06-26 01:41:00,86326,10.717,False,Product,Richard Product,532
+Michael,Male,1991-11-22,2026-06-26 12:57:00,98753,16.443,True,Human Resources,Michael Human Resources,416
+Steven,Male,2009-05-12,2026-06-26 14:14:00,113060,2.846,True,Sales,Steven Sales,295
+Carlos,Male,2007-09-19,2026-06-26 01:01:00,77327,11.58,True,Finance,Carlos Finance,612
+Marie,Female,2011-10-20,2026-06-26 22:09:00,62666,10.247,False,Product,Marie Product,745
+Ronald,Male,2009-02-24,2026-06-26 14:09:00,96633,4.99,True,Engineering,Ronald Engineering,439
+Scott,Male,2009-05-12,2026-06-26 04:36:00,58248,3.914,False,Business Development,Scott Business Development,785
+Steven,Male,2006-11-21,2026-06-26 08:30:00,83706,6.96,True,Human Resources,Steven Human Resources,561
+James,Male,1998-11-22,2026-06-26 03:48:00,74086,5.778,True,Human Resources,James Human Resources,640
+Lori,Female,1988-03-31,2026-06-26 22:59:00,95389,14.223,False,Sales,Lori Sales,449
+Philip,Male,1989-08-02,2026-06-26 11:21:00,129968,19.897,False,Finance,Philip Finance,155
+Phyllis,Female,2005-11-24,2026-06-26 23:57:00,140347,8.723,False,Sales,Phyllis Sales,74
+Thomas,Unknown,1995-08-31,2026-06-26 20:31:00,41549,3.95,False,Sales,Thomas Sales,934
+Cynthia,Female,2012-12-03,2026-06-26 23:03:00,74287,10.751,False,Sales,Cynthia Sales,637
+,Male,2011-10-09,2026-06-26 09:29:00,69906,4.844,,Engineering,,678
+,Male,1997-04-22,2026-06-26 21:36:00,65078,3.095,,Marketing,,723
+Elizabeth,Female,2005-11-10,2026-06-26 04:56:00,106406,1.782,True,Legal,Elizabeth Legal,349
+Andrea,Female,2003-09-14,2026-06-26 22:30:00,115913,12.121,False,Legal,Andrea Legal,261
+Judy,Female,1990-02-01,2026-06-26 15:32:00,38092,5.668,False,Distribution,Judy Distribution,961
+Russell,Male,2014-08-13,2026-06-26 15:51:00,121160,7.843,False,Engineering,Russell Engineering,231
+Scott,Male,2011-12-17,2026-06-26 03:45:00,90429,4.45,False,Product,Scott Product,496
+Sarah,Female,1994-05-22,2026-06-26 07:06:00,64207,7.824,True,Client Services,Sarah Client Services,728
+Susan,Female,2004-09-25,2026-06-26 01:30:00,80688,18.892,True,Sales,Susan Sales,591
+Margaret,Female,2014-05-05,2026-06-26 06:01:00,55044,4.078,False,Sales,Margaret Sales,807
+Joshua,Male,2009-11-09,2026-06-26 06:32:00,72893,9.555,False,Distribution,Joshua Distribution,651
+Justin,Unknown,2005-04-15,2026-06-26 20:43:00,96978,13.865,False,Finance,Justin Finance,434
+Juan,Male,2002-04-16,2026-06-26 23:09:00,97364,3.595,False,Product,Juan Product,431
+Gloria,Unknown,1983-07-19,2026-06-26 01:57:00,140885,1.113,False,Human Resources,Gloria Human Resources,67
+Jennifer,Unknown,1989-01-24,2026-06-26 20:38:00,58520,16.231,True,Client Services,Jennifer Client Services,779
+Edward,Male,1989-08-04,2026-06-26 06:06:00,66067,10.957,True,Unknown,Edward Unknown,713
+Marilyn,Female,1982-12-17,2026-06-26 12:10:00,147183,8.748,False,Business Development,Marilyn Business Development,21
+Mary,Female,2009-10-18,2026-06-26 18:32:00,87721,12.484,False,Product,Mary Product,517
+Linda,Female,2009-07-15,2026-06-26 22:12:00,144001,2.194,False,Business Development,Linda Business Development,44
+Larry,Male,2003-08-27,2026-06-26 13:00:00,91133,5.14,False,Sales,Larry Sales,486
+Albert,Male,1997-02-01,2026-06-26 16:20:00,67827,19.717,True,Engineering,Albert Engineering,694
+Kenneth,Male,1999-04-13,2026-06-26 22:28:00,81839,12.072,False,Sales,Kenneth Sales,578
+,Female,2006-12-31,2026-06-26 23:02:00,81444,3.171,,Distribution,,581
+Gregory,Unknown,2011-07-09,2026-06-26 23:31:00,137661,4.805,True,Sales,Gregory Sales,93
+Brandon,Male,2015-10-16,2026-06-26 02:44:00,112548,4.664,False,Engineering,Brandon Engineering,299
+Stephen,Male,1987-04-09,2026-06-26 12:47:00,111249,10.574,True,Human Resources,Stephen Human Resources,310
+Russell,Male,1994-10-30,2026-06-26 05:46:00,114334,9.669,False,Product,Russell Product,283
+,Female,2002-09-18,2026-06-26 12:39:00,118906,4.537,,Marketing,,244
+Pamela,Unknown,2001-07-15,2026-06-26 13:33:00,72979,5.66,False,Sales,Pamela Sales,650
+Scott,Male,1996-08-03,2026-06-26 01:50:00,64172,10.894,True,Engineering,Scott Engineering,729
+,Female,1996-04-18,2026-06-26 15:57:00,107024,12.182,,Unknown,,342
+Carlos,Male,2010-07-28,2026-06-26 15:08:00,50167,2.362,False,Product,Carlos Product,848
+Jack,Male,1980-12-24,2026-06-26 22:58:00,106995,15.723,False,Product,Jack Product,343
+Debra,Female,2010-01-19,2026-06-26 08:48:00,70492,8.895,False,Client Services,Debra Client Services,674
+Phyllis,Female,1995-01-15,2026-06-26 05:27:00,125881,16.697,False,Sales,Phyllis Sales,179
+Robert,Male,1994-10-29,2026-06-26 04:26:00,123294,19.894,False,Client Services,Robert Client Services,208
+Gloria,Female,1989-09-19,2026-06-26 19:40:00,131045,11.312,True,Product,Gloria Product,148
+Sharon,Unknown,1984-10-28,2026-06-26 17:59:00,97635,10.413,True,Client Services,Sharon Client Services,425
+Barbara,Unknown,2001-04-26,2026-06-26 00:22:00,94493,13.443,True,Sales,Barbara Sales,457
+Marilyn,Female,1989-08-15,2026-06-26 09:14:00,140502,9.989,True,Sales,Marilyn Sales,71
+Ralph,Male,2010-10-27,2026-06-26 10:28:00,106310,4.03,True,Client Services,Ralph Client Services,352
+Harry,Unknown,1996-12-05,2026-06-26 05:45:00,46240,6.976,True,Engineering,Harry Engineering,888
+Robin,Female,1998-01-08,2026-06-26 02:12:00,111163,5.025,True,Product,Robin Product,311
+Kathy,Female,2001-11-25,2026-06-26 21:55:00,93753,7.094,True,Sales,Kathy Sales,465
+Rose,Female,2002-07-06,2026-06-26 15:57:00,63494,19.385,True,Human Resources,Rose Human Resources,736
+Clarence,Male,2005-01-13,2026-06-26 09:00:00,116693,13.835,True,Distribution,Clarence Distribution,259
+Doris,Female,1992-07-29,2026-06-26 18:40:00,85215,7.425,True,Human Resources,Doris Human Resources,546
+Kathryn,Female,1988-06-09,2026-06-26 09:29:00,86439,7.799,False,Finance,Kathryn Finance,530
+Billy,Unknown,2004-03-16,2026-06-26 08:21:00,62913,18.241,True,Marketing,Billy Marketing,743
+Norma,Female,1996-04-16,2026-06-26 05:40:00,38872,9.302,True,Business Development,Norma Business Development,956
+Richard,Unknown,1992-11-28,2026-06-26 17:05:00,124655,14.272,True,Engineering,Richard Engineering,192
+Craig,Male,1984-02-08,2026-06-26 04:45:00,113506,19.642,False,Marketing,Craig Marketing,292
+Sarah,Unknown,1990-07-20,2026-06-26 22:49:00,109980,8.86,False,Sales,Sarah Sales,320
+Sharon,Female,2014-03-09,2026-06-26 16:39:00,91522,7.564,False,Finance,Sharon Finance,481
+Mary,Female,2010-08-22,2026-06-26 08:03:00,42214,17.538,True,Business Development,Mary Business Development,924
+Steve,Unknown,2002-02-23,2026-06-26 03:55:00,83159,9.55,True,Distribution,Steve Distribution,565
+Joe,Male,2010-12-05,2026-06-26 16:20:00,144082,1.62,True,Client Services,Joe Client Services,43
+Jeremy,Male,1994-05-29,2026-06-26 06:24:00,47885,19.276,True,Human Resources,Jeremy Human Resources,866
+Ernest,Male,2012-08-14,2026-06-26 11:25:00,126232,6.191,True,Sales,Ernest Sales,176
+Kevin,Male,1981-06-23,2026-06-26 20:26:00,134598,11.699,False,Business Development,Kevin Business Development,119
+Jacqueline,Female,2007-02-11,2026-06-26 02:01:00,66604,14.609,False,Legal,Jacqueline Legal,707
+Johnny,Male,1992-09-14,2026-06-26 08:21:00,115194,5.861,True,Marketing,Johnny Marketing,270
+Gary,Male,2011-08-18,2026-06-26 08:12:00,49101,11.9,True,Business Development,Gary Business Development,858
+Shirley,Unknown,1990-11-16,2026-06-26 18:01:00,67811,12.699,False,Finance,Shirley Finance,695
+,Male,2008-06-29,2026-06-26 05:23:00,111043,5.966,,Distribution,,312
+Sarah,Unknown,1981-08-31,2026-06-26 14:51:00,37748,9.047,False,Human Resources,Sarah Human Resources,969
+Julia,Female,1982-03-02,2026-06-26 12:52:00,36403,2.664,True,Finance,Julia Finance,984
+Dorothy,Female,2013-11-05,2026-06-26 22:50:00,140136,3.12,True,Business Development,Dorothy Business Development,76
+Justin,Male,1986-05-22,2026-06-26 06:30:00,121508,19.334,True,Finance,Justin Finance,225
+Kevin,Male,1986-11-20,2026-06-26 18:59:00,79906,18.021,True,Sales,Kevin Sales,594
+Victor,Male,2005-09-24,2026-06-26 12:04:00,123144,16.261,True,Product,Victor Product,209
+Deborah,Female,1980-11-25,2026-06-26 04:33:00,46953,17.436,False,Client Services,Deborah Client Services,877
+Matthew,Unknown,2003-06-09,2026-06-26 07:35:00,79443,14.637,False,Human Resources,Matthew Human Resources,600
+Alice,Female,1986-05-02,2026-06-26 01:50:00,51395,2.378,True,Finance,Alice Finance,835
+Todd,Male,2016-03-16,2026-06-26 14:45:00,134408,3.56,True,Human Resources,Todd Human Resources,121
+Frank,Male,1981-01-10,2026-06-26 13:30:00,71853,8.037,True,Sales,Frank Sales,662
+Christopher,Male,1999-05-13,2026-06-26 10:48:00,68028,7.869,True,Finance,Christopher Finance,693
+Rose,Female,2015-05-28,2026-06-26 08:40:00,149903,5.63,False,Human Resources,Rose Human Resources,2
+Andrea,Female,2010-10-01,2026-06-26 11:54:00,79123,19.422,False,Distribution,Andrea Distribution,602
+Charles,Male,1999-12-16,2026-06-26 20:28:00,104014,7.077,False,Legal,Charles Legal,369
+Jessica,Unknown,2015-03-07,2026-06-26 20:45:00,121160,12.993,False,Client Services,Jessica Client Services,231
+Wanda,Female,2008-07-20,2026-06-26 13:44:00,65362,7.132,True,Legal,Wanda Legal,720
+Joyce,Female,1995-02-07,2026-06-26 07:38:00,50701,14.227,True,Unknown,Joyce Unknown,841
+Billy,Male,2006-12-01,2026-06-26 15:32:00,144709,10.069,True,Distribution,Billy Distribution,38
+Kathryn,Female,2007-08-29,2026-06-26 06:10:00,53061,11.864,True,Finance,Kathryn Finance,818
+Denise,Female,2001-03-18,2026-06-26 00:02:00,36697,11.196,True,Sales,Denise Sales,982
+Jason,Male,1998-11-20,2026-06-26 14:54:00,69244,6.22,True,Unknown,Jason Unknown,684
+Nicholas,Male,2013-03-01,2026-06-26 21:26:00,101036,2.826,True,Human Resources,Nicholas Human Resources,396
+Aaron,Male,1990-07-22,2026-06-26 14:53:00,52119,11.343,True,Client Services,Aaron Client Services,824
+Louise,Female,2003-05-13,2026-06-26 09:47:00,46666,1.886,True,Business Development,Louise Business Development,883
+Julie,Female,1998-04-23,2026-06-26 05:52:00,73437,2.518,True,Finance,Julie Finance,647
+Kathy,Female,1987-05-08,2026-06-26 18:19:00,86318,18.492,True,Sales,Kathy Sales,533
+,Male,2016-05-24,2026-06-26 21:17:00,76409,7.008,,Distribution,,616
+Chris,Male,2006-12-12,2026-06-26 01:57:00,71642,1.496,False,Unknown,Chris Unknown,666
+Cheryl,Female,1994-08-16,2026-06-26 08:33:00,67150,15.85,True,Marketing,Cheryl Marketing,701
+Gregory,Male,2009-05-15,2026-06-26 15:52:00,142208,11.204,True,Engineering,Gregory Engineering,55
+Wayne,Male,1992-01-30,2026-06-26 15:01:00,81183,17.066,False,Client Services,Wayne Client Services,585
+Beverly,Female,2005-11-30,2026-06-26 02:57:00,107163,3.665,True,Human Resources,Beverly Human Resources,339
+Willie,Male,2009-08-22,2026-06-26 13:03:00,55038,19.691,False,Legal,Willie Legal,808
+Terry,Unknown,2016-07-15,2026-06-26 00:29:00,140002,19.49,True,Marketing,Terry Marketing,78
+Scott,Male,2012-11-17,2026-06-26 14:47:00,146812,1.965,True,Marketing,Scott Marketing,24
+Annie,Female,1994-12-19,2026-06-26 06:19:00,40119,4.338,True,Human Resources,Annie Human Resources,951
+,Male,1995-02-21,2026-06-26 00:26:00,136602,10.429,,Marketing,,105
+Ruth,Female,2000-10-24,2026-06-26 04:13:00,69579,18.029,True,Human Resources,Ruth Human Resources,680
+Deborah,Unknown,1983-02-03,2026-06-26 23:38:00,101457,6.662,False,Engineering,Deborah Engineering,394
+Patricia,Female,2015-01-09,2026-06-26 04:16:00,121232,16.624,False,Legal,Patricia Legal,230
+Albert,Male,2007-09-30,2026-06-26 17:34:00,102626,15.843,False,Finance,Albert Finance,385
+Charles,Unknown,1987-03-01,2026-06-26 13:00:00,137171,5.574,True,Marketing,Charles Marketing,97
+Tina,Female,2005-01-17,2026-06-26 09:11:00,88276,14.248,False,Legal,Tina Legal,513
+Jeremy,Male,2001-08-09,2026-06-26 03:56:00,43354,13.946,False,Marketing,Jeremy Marketing,912
+Craig,Male,1996-04-14,2026-06-26 09:17:00,125556,7.996,False,Engineering,Craig Engineering,182
+Jose,Male,2002-07-11,2026-06-26 09:15:00,59862,3.269,False,Product,Jose Product,767
+Lawrence,Male,2005-05-13,2026-06-26 01:25:00,74640,18.641,False,Marketing,Lawrence Marketing,636
+Helen,Female,1997-10-31,2026-06-26 02:43:00,52875,4.188,False,Legal,Helen Legal,820
+Walter,Male,2007-08-04,2026-06-26 13:59:00,58789,5.461,False,Sales,Walter Sales,775
+Amy,Female,2002-06-19,2026-06-26 03:06:00,122897,8.222,True,Engineering,Amy Engineering,212
+Janice,Female,1997-06-28,2026-06-26 13:48:00,136032,10.696,True,Marketing,Janice Marketing,106
+Stephen,Male,2015-05-09,2026-06-26 19:07:00,141958,9.078,True,Legal,Stephen Legal,58
+Ryan,Male,1993-07-20,2026-06-26 22:18:00,139917,11.466,False,Distribution,Ryan Distribution,80
+Sharon,Female,2002-03-12,2026-06-26 06:32:00,147635,14.693,False,Human Resources,Sharon Human Resources,17
+Joshua,Male,1984-07-10,2026-06-26 19:22:00,68230,8.047,False,Client Services,Joshua Client Services,691
+Clarence,Male,1992-08-20,2026-06-26 20:23:00,124365,8.457,False,Business Development,Clarence Business Development,197
+Jonathan,Male,2002-08-15,2026-06-26 00:01:00,104749,11.364,False,Engineering,Jonathan Engineering,365
+Stephanie,Female,1992-11-26,2026-06-26 00:54:00,122121,7.937,True,Engineering,Stephanie Engineering,219
+Kathy,Female,1996-10-25,2026-06-26 12:59:00,143541,8.461,False,Human Resources,Kathy Human Resources,46
+Albert,Male,2008-08-14,2026-06-26 17:43:00,137840,9.705,False,Business Development,Albert Business Development,92
+Michael,Male,2011-05-22,2026-06-26 10:42:00,73354,18.357,False,Business Development,Michael Business Development,648
+Richard,Male,1997-07-04,2026-06-26 11:47:00,47647,18.787,True,Unknown,Richard Unknown,867
+Amy,Female,2008-03-30,2026-06-26 22:54:00,106249,15.967,False,Sales,Amy Sales,353
+,Female,2013-04-27,2026-06-26 06:40:00,93847,1.085,,Business Development,,464
+Beverly,Unknown,1995-05-03,2026-06-26 05:49:00,104815,3.38,False,Product,Beverly Product,364
+,Female,1992-04-26,2026-06-26 20:01:00,115436,3.099,,Human Resources,,267
+Joe,Male,2000-04-14,2026-06-26 15:14:00,50645,11.119,False,Marketing,Joe Marketing,842
+Ashley,Female,1997-08-15,2026-06-26 21:48:00,142415,1.985,True,Finance,Ashley Finance,51
+Howard,Male,2012-04-09,2026-06-26 06:36:00,37984,2.021,False,Distribution,Howard Distribution,964
+Cheryl,Female,2014-12-03,2026-06-26 09:27:00,71751,15.918,False,Business Development,Cheryl Business Development,663
+Robert,Male,2007-03-11,2026-06-26 11:20:00,135882,19.944,False,Legal,Robert Legal,108
+Sharon,Female,2011-07-01,2026-06-26 09:50:00,46007,19.731,True,Client Services,Sharon Client Services,891
+Judith,Female,2007-11-23,2026-06-26 13:22:00,117055,7.461,False,Marketing,Judith Marketing,257
+Nicholas,Unknown,1989-09-09,2026-06-26 19:12:00,58478,6.525,True,Distribution,Nicholas Distribution,780
+Jerry,Male,1995-01-30,2026-06-26 19:51:00,121357,18.845,False,Business Development,Jerry Business Development,227
+Craig,Male,2005-11-01,2026-06-26 23:31:00,44857,13.266,False,Finance,Craig Finance,901
+Barbara,Female,2002-03-21,2026-06-26 08:02:00,47322,7.25,True,Sales,Barbara Sales,872
+Eugene,Male,1984-05-24,2026-06-26 10:54:00,81077,2.117,False,Sales,Eugene Sales,586
+Johnny,Male,2016-02-26,2026-06-26 19:39:00,76394,5.437,True,Marketing,Johnny Marketing,617
+Benjamin,Male,2013-05-05,2026-06-26 15:28:00,114356,7.123,False,Client Services,Benjamin Client Services,282
+Diana,Female,1994-06-13,2026-06-26 16:21:00,41831,4.548,False,Business Development,Diana Business Development,931
+Barbara,Unknown,1980-12-10,2026-06-26 23:04:00,90187,14.764,True,Distribution,Barbara Distribution,500
+Christine,Female,2003-02-01,2026-06-26 13:11:00,72613,11.126,False,Legal,Christine Legal,653
+Sean,Male,2013-02-11,2026-06-26 19:07:00,42748,9.765,False,Distribution,Sean Distribution,917
+Sarah,Female,1980-11-03,2026-06-26 14:47:00,37259,1.763,False,Client Services,Sarah Client Services,972
+Roger,Male,2015-08-03,2026-06-26 16:56:00,125033,4.887,True,Marketing,Roger Marketing,189
+,Female,2014-06-24,2026-06-26 10:05:00,38275,10.494,,Distribution,,960
+,Male,1980-04-20,2026-06-26 13:17:00,71520,13.248,,Engineering,,667
+Donald,Male,1995-07-14,2026-06-26 07:51:00,106472,6.499,True,Client Services,Donald Client Services,347
+Clarence,Male,2015-11-03,2026-06-26 00:11:00,103684,18.654,True,Engineering,Clarence Engineering,373
+Scott,Male,1996-11-23,2026-06-26 19:36:00,96111,15.592,False,Human Resources,Scott Human Resources,444
+Ann,Female,1984-11-04,2026-06-26 12:17:00,90719,6.22,False,Business Development,Ann Business Development,493
+Frank,Male,2003-04-27,2026-06-26 12:04:00,140303,17.07,False,Legal,Frank Legal,75
+Joe,Male,1983-07-04,2026-06-26 07:32:00,62161,8.13,True,Business Development,Joe Business Development,748
+Wanda,Female,1993-04-06,2026-06-26 03:11:00,78883,19.695,False,Unknown,Wanda Unknown,605
+Jimmy,Male,2013-11-19,2026-06-26 19:29:00,63549,19.624,False,Unknown,Jimmy Unknown,735
+Amy,Unknown,1984-12-25,2026-06-26 10:52:00,63888,18.115,True,Product,Amy Product,733
+Larry,Male,1999-01-08,2026-06-26 02:05:00,97370,10.458,False,Sales,Larry Sales,430
+Gloria,Female,1992-04-12,2026-06-26 20:26:00,66224,15.979,True,Legal,Gloria Legal,710
+Ruth,Female,1996-12-12,2026-06-26 10:07:00,97915,3.997,True,Human Resources,Ruth Human Resources,423
+Diana,Female,1995-01-19,2026-06-26 00:37:00,86883,18.003,True,Product,Diana Product,524
+Raymond,Male,2009-02-16,2026-06-26 22:38:00,37812,3.178,False,Human Resources,Raymond Human Resources,968
+Peter,Male,2003-02-22,2026-06-26 09:09:00,56580,8.411,True,Unknown,Peter Unknown,802
+,Unknown,1981-09-25,2026-06-26 09:59:00,83895,17.971,,Engineering,,559
+Catherine,Female,2013-08-31,2026-06-26 19:24:00,58047,14.858,True,Distribution,Catherine Distribution,788
+Diane,Female,1982-07-05,2026-06-26 16:56:00,124889,15.026,True,Sales,Diane Sales,191
+Peter,Unknown,2014-10-13,2026-06-26 21:33:00,118840,14.509,True,Client Services,Peter Client Services,245
+Steve,Male,1995-08-22,2026-06-26 06:58:00,67780,9.54,True,Human Resources,Steve Human Resources,697
+Barbara,Female,2004-03-22,2026-06-26 08:11:00,144677,8.696,False,Finance,Barbara Finance,40
+Helen,Unknown,1993-12-02,2026-06-26 13:42:00,45724,1.022,False,Product,Helen Product,893
+Jimmy,Unknown,1983-08-26,2026-06-26 02:48:00,86676,7.175,True,Product,Jimmy Product,527
+Christopher,Male,2014-04-23,2026-06-26 07:52:00,82401,7.252,False,Client Services,Christopher Client Services,576
+Kathleen,Female,2014-06-13,2026-06-26 09:16:00,35575,14.595,False,Distribution,Kathleen Distribution,989
+Virginia,Female,2010-05-02,2026-06-26 21:10:00,123649,10.154,True,Marketing,Virginia Marketing,204
+Lisa,Female,2005-02-26,2026-06-26 18:33:00,38078,10.28,True,Product,Lisa Product,962
+Earl,Male,2014-02-11,2026-06-26 21:03:00,52620,13.773,False,Product,Earl Product,822
+Gerald,Unknown,1992-01-08,2026-06-26 15:50:00,133366,12.292,False,Legal,Gerald Legal,129
+Louise,Female,1981-09-18,2026-06-26 05:47:00,91462,8.205,False,Marketing,Louise Marketing,482
+Clarence,Male,1982-08-26,2026-06-26 09:47:00,146589,4.905,True,Business Development,Clarence Business Development,27
+Cynthia,Female,1991-09-14,2026-06-26 13:08:00,51633,13.472,True,Business Development,Cynthia Business Development,830
+Adam,Male,2010-10-08,2026-06-26 21:53:00,45181,3.491,False,Human Resources,Adam Human Resources,898
+Justin,Male,1999-09-06,2026-06-26 10:30:00,62454,3.459,True,Sales,Justin Sales,746
+,Female,2009-12-02,2026-06-26 03:30:00,84746,4.82,,Finance,,553
+Ruby,Female,1999-05-01,2026-06-26 03:36:00,147362,7.851,True,Engineering,Ruby Engineering,19
+Amanda,Female,2004-08-01,2026-06-26 13:32:00,80803,14.077,True,Distribution,Amanda Distribution,589
+Anna,Female,2008-04-15,2026-06-26 14:34:00,117293,2.366,False,Client Services,Anna Client Services,256
+Roger,Male,2010-07-03,2026-06-26 17:11:00,105689,13.32,True,Marketing,Roger Marketing,356
+Julie,Unknown,1999-02-04,2026-06-26 17:35:00,93302,9.048,True,Product,Julie Product,469
+Joseph,Male,1992-09-10,2026-06-26 18:50:00,102555,3.672,True,Product,Joseph Product,388
+Evelyn,Female,1998-09-22,2026-06-26 19:55:00,51525,10.366,False,Finance,Evelyn Finance,832
+Janice,Female,1984-01-02,2026-06-26 21:06:00,41190,3.311,True,Sales,Janice Sales,943
+Sara,Female,1980-02-25,2026-06-26 22:50:00,75484,3.186,False,Finance,Sara Finance,627
+Gregory,Male,1984-06-18,2026-06-26 03:46:00,82726,16.304,True,Marketing,Gregory Marketing,573
+Philip,Male,1985-07-18,2026-06-26 06:36:00,122319,19.122,False,Engineering,Philip Engineering,217
+Barbara,Female,1991-09-02,2026-06-26 15:41:00,127297,11.905,True,Product,Barbara Product,171
+Amanda,Female,2002-06-07,2026-06-26 07:46:00,109290,13.853,False,Engineering,Amanda Engineering,328
+Phyllis,Unknown,1985-10-25,2026-06-26 07:11:00,99150,6.007,False,Client Services,Phyllis Client Services,410
+Anne,Female,1996-10-26,2026-06-26 20:09:00,71930,18.451,True,Product,Anne Product,660
+Arthur,Male,2014-12-16,2026-06-26 16:56:00,66819,6.639,True,Marketing,Arthur Marketing,704
+Jane,Female,1994-06-01,2026-06-26 08:39:00,42424,18.115,False,Distribution,Jane Distribution,920
+Linda,Female,1985-08-18,2026-06-26 04:34:00,51431,13.295,False,Engineering,Linda Engineering,833
+Ashley,Female,1999-11-17,2026-06-26 21:18:00,120675,6.51,False,Human Resources,Ashley Human Resources,235
+Shawn,Male,2009-12-03,2026-06-26 10:24:00,96610,2.097,True,Client Services,Shawn Client Services,440
+Kathleen,Female,1996-09-20,2026-06-26 15:45:00,71430,8.572,False,Engineering,Kathleen Engineering,668
+Sara,Unknown,1983-10-07,2026-06-26 13:35:00,87713,18.863,True,Legal,Sara Legal,519
+Randy,Male,2002-05-02,2026-06-26 19:39:00,86723,14.842,False,Engineering,Randy Engineering,526
+Andrew,Male,1985-03-29,2026-06-26 18:57:00,43414,7.563,True,Client Services,Andrew Client Services,911
+Marilyn,Female,2006-08-09,2026-06-26 11:24:00,87145,17.33,False,Human Resources,Marilyn Human Resources,522
+Johnny,Male,1995-01-08,2026-06-26 13:35:00,91124,12.986,True,Distribution,Johnny Distribution,487
+,Female,1980-04-01,2026-06-26 20:04:00,48141,12.605,,Unknown,,863
+Susan,Female,1986-04-18,2026-06-26 09:31:00,90829,19.142,False,Marketing,Susan Marketing,490
+Ruby,Female,1980-07-07,2026-06-26 03:42:00,101262,6.773,False,Client Services,Ruby Client Services,395
+Kelly,Female,1996-08-16,2026-06-26 03:09:00,41427,1.431,False,Product,Kelly Product,938
+Jonathan,Male,1995-04-06,2026-06-26 22:38:00,56993,18.623,False,Marketing,Jonathan Marketing,799
+Raymond,Male,1996-01-13,2026-06-26 16:14:00,114244,16.69,False,Human Resources,Raymond Human Resources,284
+Kimberly,Female,1981-12-30,2026-06-26 04:51:00,81800,5.435,True,Unknown,Kimberly Unknown,579
+,Female,2009-01-13,2026-06-26 13:01:00,118736,7.421,,Client Services,,248
+John,Male,1995-01-22,2026-06-26 00:17:00,66077,5.809,True,Product,John Product,712
+Michael,Male,1993-07-30,2026-06-26 17:35:00,35013,14.879,False,Product,Michael Product,995
+Jerry,Male,2003-05-04,2026-06-26 04:29:00,98393,11.393,False,Client Services,Jerry Client Services,418
+Amanda,Female,1982-03-17,2026-06-26 23:46:00,107111,1.438,True,Product,Amanda Product,340
+Harold,Male,2010-10-18,2026-06-26 20:45:00,65673,1.187,True,Legal,Harold Legal,717
+Harry,Male,1985-01-27,2026-06-26 20:18:00,65482,18.089,False,Unknown,Harry Unknown,718
+Ernest,Male,1990-01-28,2026-06-26 00:08:00,81919,15.118,False,Marketing,Ernest Marketing,577
+Harry,Male,1982-11-19,2026-06-26 11:25:00,59277,10.2,False,Finance,Harry Finance,772
+Diane,Female,1988-02-02,2026-06-26 18:14:00,49501,13.506,False,Business Development,Diane Business Development,853
+Jack,Male,2012-05-30,2026-06-26 03:17:00,70367,18.266,True,Legal,Jack Legal,675
+Shirley,Female,1988-04-16,2026-06-26 11:09:00,132156,2.754,False,Marketing,Shirley Marketing,139
+Rose,Female,2004-10-30,2026-06-26 16:34:00,56961,7.585,False,Marketing,Rose Marketing,800
+Cheryl,Female,1982-07-23,2026-06-26 06:28:00,98841,8.945,True,Client Services,Cheryl Client Services,414
+Cynthia,Female,1980-05-23,2026-06-26 03:19:00,78226,2.419,False,Human Resources,Cynthia Human Resources,608
+Sandra,Female,1995-04-24,2026-06-26 19:14:00,116931,9.657,True,Human Resources,Sandra Human Resources,258
+Andrea,Female,1994-10-30,2026-06-26 11:23:00,87575,13.346,True,Business Development,Andrea Business Development,520
+Rachel,Female,1988-04-22,2026-06-26 12:01:00,110924,7.808,False,Distribution,Rachel Distribution,314
+Justin,Male,1981-05-24,2026-06-26 23:15:00,78351,15.221,False,Sales,Justin Sales,607
+Marie,Female,2000-11-23,2026-06-26 05:06:00,125574,4.644,False,Sales,Marie Sales,181
+Louis,Male,2011-04-15,2026-06-26 05:02:00,95198,2.075,False,Business Development,Louis Business Development,453
+Nancy,Female,1985-05-07,2026-06-26 22:20:00,121006,3.512,True,Finance,Nancy Finance,233
+Mark,Male,1984-10-03,2026-06-26 05:31:00,95728,6.752,True,Business Development,Mark Business Development,447
+Teresa,Female,1987-06-24,2026-06-26 19:37:00,69740,8.294,False,Distribution,Teresa Distribution,679
+Frances,Female,2001-07-21,2026-06-26 02:34:00,91996,11.506,False,Product,Frances Product,478
+,Female,1990-10-11,2026-06-26 22:57:00,98385,10.925,,Human Resources,,419
+Barbara,Unknown,1994-12-20,2026-06-26 10:09:00,90556,15.749,True,Distribution,Barbara Distribution,495
+Christine,Unknown,1980-06-15,2026-06-26 18:00:00,50366,9.862,True,Marketing,Christine Marketing,847
+Bobby,Unknown,2003-07-21,2026-06-26 15:50:00,84232,15.704,True,Engineering,Bobby Engineering,558
+Carl,Unknown,1991-10-26,2026-06-26 08:11:00,100888,12.49,True,Business Development,Carl Business Development,399
+Bruce,Male,2013-03-15,2026-06-26 23:13:00,141335,15.427,True,Engineering,Bruce Engineering,63
+Rose,Female,1982-05-20,2026-06-26 09:14:00,97691,2.142,False,Client Services,Rose Client Services,424
+Mildred,Female,1981-02-21,2026-06-26 03:30:00,47266,10.256,False,Client Services,Mildred Client Services,873
+,Male,1983-10-13,2026-06-26 23:59:00,139754,12.74,,Sales,,83
+,Female,1993-10-24,2026-06-26 17:17:00,116236,17.274,,Engineering,,260
+Todd,Male,2010-02-16,2026-06-26 11:29:00,103405,15.91,False,Sales,Todd Sales,377
+Alan,Male,2012-02-17,2026-06-26 00:26:00,41453,10.084,False,Product,Alan Product,935
+Elizabeth,Unknown,1981-02-16,2026-06-26 03:58:00,52730,12.525,False,Marketing,Elizabeth Marketing,821
+Julie,Unknown,2000-10-21,2026-06-26 01:15:00,60361,7.099,True,Distribution,Julie Distribution,760
+Teresa,Unknown,1992-01-03,2026-06-26 15:47:00,63103,11.378,False,Finance,Teresa Finance,740
+Eric,Male,2004-11-12,2026-06-26 21:16:00,65168,11.513,False,Distribution,Eric Distribution,722
+Edward,Male,2001-08-30,2026-06-26 01:24:00,73105,6.083,True,Engineering,Edward Engineering,649
+Kimberly,Female,1986-12-06,2026-06-26 14:23:00,37916,12.929,True,Distribution,Kimberly Distribution,966
+Kathy,Female,2001-01-14,2026-06-26 05:11:00,45682,1.451,True,Marketing,Kathy Marketing,894
+Peter,Male,1992-11-24,2026-06-26 17:43:00,69297,1.268,False,Finance,Peter Finance,681
+Beverly,Female,1990-10-22,2026-06-26 14:45:00,59070,19.064,True,Engineering,Beverly Engineering,774
+Ralph,Male,2012-03-07,2026-06-26 02:25:00,81215,8.4,False,Finance,Ralph Finance,583
+Justin,Male,1997-08-10,2026-06-26 23:00:00,128036,18.824,False,Client Services,Justin Client Services,167
+Irene,Female,2005-06-23,2026-06-26 11:03:00,89780,8.999,True,Sales,Irene Sales,504
+Irene,Female,2006-11-29,2026-06-26 14:14:00,125018,9.601,True,Legal,Irene Legal,190
+Jeremy,Male,1997-11-26,2026-06-26 08:22:00,133033,12.2,False,Sales,Jeremy Sales,130
+Cynthia,Female,2015-06-29,2026-06-26 06:38:00,82408,8.701,True,Marketing,Cynthia Marketing,575
+,Female,1997-04-13,2026-06-26 08:03:00,131755,2.93,,Unknown,,143
+Anne,Female,1984-11-21,2026-06-26 12:30:00,128305,16.636,False,Marketing,Anne Marketing,164
+,Unknown,1988-09-02,2026-06-26 12:49:00,147309,1.702,,Distribution,,20
+Debra,Female,1983-03-12,2026-06-26 12:19:00,74911,19.513,False,Marketing,Debra Marketing,634
+Michael,Male,1988-07-13,2026-06-26 13:48:00,47079,2.617,False,Legal,Michael Legal,876
+Jason,Unknown,2008-03-06,2026-06-26 01:20:00,82873,1.869,False,Client Services,Jason Client Services,569
+Rebecca,Female,1990-02-23,2026-06-26 15:21:00,134673,6.878,False,Engineering,Rebecca Engineering,116
+Andrea,Female,2011-11-17,2026-06-26 14:37:00,123591,6.5,True,Engineering,Andrea Engineering,206
+Carl,Male,1987-03-30,2026-06-26 17:59:00,75598,19.289,False,Unknown,Carl Unknown,625
+Randy,Male,2000-09-27,2026-06-26 03:04:00,89831,13.047,True,Unknown,Randy Unknown,502
+Marilyn,Female,1984-07-02,2026-06-26 16:06:00,92430,2.924,False,Engineering,Marilyn Engineering,476
+Wayne,Male,2009-09-02,2026-06-26 01:37:00,126956,18.396,False,Human Resources,Wayne Human Resources,173
+Frances,Female,1996-11-12,2026-06-26 18:08:00,112467,1.433,False,Business Development,Frances Business Development,300
+Amanda,Unknown,1991-08-11,2026-06-26 14:15:00,46665,19.391,True,Client Services,Amanda Client Services,884
+Kathleen,Female,2004-08-28,2026-06-26 10:49:00,42553,3.756,True,Distribution,Kathleen Distribution,919
+Amanda,Female,1995-01-25,2026-06-26 05:06:00,102081,5.203,False,Sales,Amanda Sales,391
+Amanda,Unknown,2010-03-16,2026-06-26 09:17:00,135118,15.108,False,Finance,Amanda Finance,114
+Shawn,Male,1987-09-29,2026-06-26 22:11:00,71975,9.77,False,Human Resources,Shawn Human Resources,657
+Katherine,Female,1996-08-13,2026-06-26 00:21:00,149908,18.912,False,Finance,Katherine Finance,1
+Anna,Unknown,1985-03-13,2026-06-26 09:19:00,45418,10.162,False,Marketing,Anna Marketing,895
+Elizabeth,Female,2010-02-21,2026-06-26 07:02:00,79145,19.78,False,Finance,Elizabeth Finance,601
+Donald,Male,1988-04-06,2026-06-26 10:00:00,122920,5.32,False,Unknown,Donald Unknown,211
+Gregory,Male,1999-11-15,2026-06-26 17:22:00,128031,15.857,True,Business Development,Gregory Business Development,168
+Ruth,Female,2004-02-17,2026-06-26 05:38:00,59969,14.064,True,Finance,Ruth Finance,764
+Cynthia,Female,1986-07-05,2026-06-26 01:24:00,35381,11.749,False,Finance,Cynthia Finance,991
+Deborah,Female,1985-11-21,2026-06-26 13:40:00,113129,17.371,False,Client Services,Deborah Client Services,294
+Willie,Male,2009-12-05,2026-06-26 05:39:00,141932,1.017,True,Engineering,Willie Engineering,59
+Debra,Female,2006-05-28,2026-06-26 06:51:00,42296,16.922,False,Product,Debra Product,923
+Carl,Male,1984-12-14,2026-06-26 20:49:00,63395,11.411,False,Legal,Carl Legal,737
+Walter,Male,2007-09-24,2026-06-26 23:16:00,125382,13.613,True,Client Services,Walter Client Services,184
+Lisa,Female,1982-02-09,2026-06-26 18:44:00,113592,17.108,True,Marketing,Lisa Marketing,289
+Rebecca,Female,2000-03-05,2026-06-26 10:33:00,46750,11.367,True,Sales,Rebecca Sales,882
+Jessica,Female,1986-10-19,2026-06-26 21:58:00,90285,13.591,True,Client Services,Jessica Client Services,499
+Steve,Unknown,2009-08-27,2026-06-26 15:41:00,53692,4.785,True,Marketing,Steve Marketing,816
+Mary,Unknown,1986-12-24,2026-06-26 19:02:00,100341,6.662,False,Distribution,Mary Distribution,404
+Craig,Male,1995-08-21,2026-06-26 02:38:00,123876,4.225,False,Engineering,Craig Engineering,201
+Katherine,Female,2000-12-19,2026-06-26 01:40:00,41643,4.659,True,Distribution,Katherine Distribution,933
+Andrea,Female,1989-08-31,2026-06-26 23:10:00,113760,12.866,True,Distribution,Andrea Distribution,287
+Timothy,Male,2010-10-06,2026-06-26 22:49:00,49473,12.463,False,Legal,Timothy Legal,854
+Anthony,Male,2013-02-13,2026-06-26 13:35:00,146141,3.645,True,Distribution,Anthony Distribution,28
+Harold,Unknown,2004-02-04,2026-06-26 11:02:00,79459,7.776,True,Business Development,Harold Business Development,599
+Douglas,Unknown,2009-02-04,2026-06-26 02:03:00,104496,14.771,True,Marketing,Douglas Marketing,366
+James,Male,2001-12-05,2026-06-26 07:06:00,67789,17.105,True,Legal,James Legal,696
+Joseph,Unknown,1982-03-28,2026-06-26 13:05:00,86564,11.879,True,Unknown,Joseph Unknown,529
+Martha,Female,2001-09-14,2026-06-26 03:22:00,135758,14.782,True,Client Services,Martha Client Services,109
+Laura,Female,2000-07-12,2026-06-26 18:07:00,84672,3.96,False,Distribution,Laura Distribution,556
+Robert,Male,1982-11-05,2026-06-26 12:41:00,111580,10.982,False,Human Resources,Robert Human Resources,306
+Ralph,Male,1996-03-24,2026-06-26 11:54:00,50455,16.248,False,Business Development,Ralph Business Development,844
+,Male,2012-08-28,2026-06-26 19:56:00,88733,1.932,,Human Resources,,511
+Diane,Female,2009-10-30,2026-06-26 18:56:00,130577,12.791,False,Marketing,Diane Marketing,153
+Annie,Female,1992-06-06,2026-06-26 10:04:00,138925,9.801,True,Marketing,Annie Marketing,86
+Jacqueline,Female,1994-09-20,2026-06-26 18:07:00,62371,15.77,True,Client Services,Jacqueline Client Services,747
+Brenda,Female,1984-04-17,2026-06-26 07:12:00,87715,2.675,False,Product,Brenda Product,518
+Lori,Female,2002-09-11,2026-06-26 07:36:00,66029,3.345,True,Client Services,Lori Client Services,715
+Albert,Male,1992-06-17,2026-06-26 03:25:00,86818,14.301,True,Engineering,Albert Engineering,525
+Frank,Male,2002-11-23,2026-06-26 18:10:00,75147,17.398,False,Product,Frank Product,632
+Deborah,Female,2000-04-23,2026-06-26 18:55:00,105573,5.268,True,Product,Deborah Product,358
+Robin,Unknown,2005-12-20,2026-06-26 14:42:00,41230,6.611,True,Distribution,Robin Distribution,942
+Alice,Female,2016-01-21,2026-06-26 17:07:00,117787,10.485,False,Unknown,Alice Unknown,255
+,Male,1989-10-20,2026-06-26 09:37:00,88086,19.387,,Finance,,514
+Paul,Unknown,2011-02-18,2026-06-26 12:23:00,91462,18.704,False,Finance,Paul Finance,482
+,Male,1996-12-27,2026-06-26 07:07:00,139959,8.992,,Distribution,,79
+Brian,Male,2007-04-07,2026-06-26 22:47:00,93901,17.821,True,Legal,Brian Legal,463
+Julie,Unknown,1980-05-08,2026-06-26 06:31:00,50529,17.263,False,Finance,Julie Finance,843
+Bruce,Male,2007-01-28,2026-06-26 23:10:00,134988,13.926,True,Sales,Bruce Sales,115
+Joan,Female,2007-10-02,2026-06-26 02:53:00,120941,3.694,True,Finance,Joan Finance,234
+Harold,Male,2007-05-15,2026-06-26 18:37:00,118753,8.162,False,Sales,Harold Sales,247
+Alice,Female,1995-10-16,2026-06-26 21:19:00,92799,2.782,False,Sales,Alice Sales,472
+Barbara,Female,2011-11-12,2026-06-26 00:35:00,85718,13.326,False,Client Services,Barbara Client Services,541
+Sarah,Female,1999-04-06,2026-06-26 11:17:00,109517,5.146,False,Human Resources,Sarah Human Resources,324
+Samuel,Male,2012-05-25,2026-06-26 16:40:00,85550,11.593,True,Marketing,Samuel Marketing,544
+,Male,1990-05-23,2026-06-26 02:09:00,136655,9.801,,Distribution,,103
+Barbara,Unknown,2002-08-02,2026-06-26 05:13:00,43312,8.218,True,Legal,Barbara Legal,913
+Amy,Unknown,1984-05-19,2026-06-26 11:47:00,102839,10.385,True,Distribution,Amy Distribution,382
+Frank,Male,2009-03-02,2026-06-26 21:15:00,78891,7.927,True,Distribution,Frank Distribution,604
+Robin,Unknown,2005-09-16,2026-06-26 01:26:00,93201,11.712,True,Legal,Robin Legal,470
+Debra,Female,2011-03-17,2026-06-26 13:12:00,84693,6.976,True,Finance,Debra Finance,554
+Brandon,Unknown,2004-05-31,2026-06-26 15:36:00,73587,9.769,True,Human Resources,Brandon Human Resources,645
+Thomas,Male,1991-09-07,2026-06-26 09:51:00,65251,11.211,False,Distribution,Thomas Distribution,721
+Harry,Male,2015-09-23,2026-06-26 01:36:00,129148,15.193,True,Engineering,Harry Engineering,161
+Todd,Male,1993-07-04,2026-06-26 18:53:00,128175,18.473,True,Unknown,Todd Unknown,165
+Patricia,Female,1998-03-07,2026-06-26 01:10:00,75825,7.839,False,Engineering,Patricia Engineering,622
+Steve,Male,2002-01-11,2026-06-26 21:17:00,51821,1.197,True,Legal,Steve Legal,827
+,Male,1995-04-07,2026-06-26 04:32:00,60411,12.048,,Human Resources,,758
+Edward,Male,1997-11-27,2026-06-26 01:00:00,58327,17.095,True,Finance,Edward Finance,783
+Karen,Female,2014-01-09,2026-06-26 22:09:00,46478,16.552,False,Engineering,Karen Engineering,886
+Martin,Unknown,2001-02-06,2026-06-26 04:17:00,123963,15.745,True,Engineering,Martin Engineering,199
+Ann,Female,1994-09-28,2026-06-26 05:44:00,79796,9.851,False,Distribution,Ann Distribution,595
+Jonathan,Male,1984-07-30,2026-06-26 18:02:00,83809,12.922,False,Distribution,Jonathan Distribution,560
+Peter,Male,1982-03-22,2026-06-26 07:28:00,77933,13.132,True,Engineering,Peter Engineering,609
+Eric,Male,1993-06-15,2026-06-26 03:56:00,51070,13.806,True,Business Development,Eric Business Development,838
+Jason,Unknown,1988-04-15,2026-06-26 20:16:00,97480,11.518,False,Human Resources,Jason Human Resources,428
+Terry,Male,2010-10-21,2026-06-26 23:18:00,58357,7.969,False,Engineering,Terry Engineering,782
+John,Male,1999-01-29,2026-06-26 03:07:00,67165,13.001,False,Engineering,John Engineering,700
+Marie,Female,1983-04-08,2026-06-26 14:01:00,145988,18.685,True,Human Resources,Marie Human Resources,30
+Harold,Male,2010-04-16,2026-06-26 05:13:00,147417,11.626,True,Business Development,Harold Business Development,18
+Joshua,Male,1997-06-27,2026-06-26 15:23:00,95003,5.197,True,Marketing,Joshua Marketing,454
+Brandon,Unknown,1992-09-05,2026-06-26 02:32:00,144187,11.416,True,Legal,Brandon Legal,42
+Andrea,Female,2001-12-10,2026-06-26 06:40:00,37888,13.47,False,Engineering,Andrea Engineering,967
+Jeremy,Male,1991-05-19,2026-06-26 13:40:00,131513,1.876,True,Finance,Jeremy Finance,145
+Daniel,Male,2016-02-29,2026-06-26 04:04:00,77287,13.0,True,Unknown,Daniel Unknown,613
+Roy,Male,2004-05-10,2026-06-26 13:22:00,46875,12.942,True,Sales,Roy Sales,880
+Dorothy,Female,2008-10-08,2026-06-26 00:22:00,82744,19.111,True,Client Services,Dorothy Client Services,572
+Steven,Male,1986-09-07,2026-06-26 00:32:00,43252,18.892,False,Client Services,Steven Client Services,914
+Nicole,Female,2009-04-26,2026-06-26 00:40:00,66047,18.674,True,Marketing,Nicole Marketing,714
+Ann,Female,2001-07-16,2026-06-26 09:27:00,118431,12.772,True,Finance,Ann Finance,250
+Henry,Male,1986-05-12,2026-06-26 02:04:00,59943,1.432,False,Finance,Henry Finance,765
+,Male,2009-06-17,2026-06-26 13:00:00,136681,3.655,,Business Development,,102
+,Female,1994-12-18,2026-06-26 20:42:00,138807,1.4,,Human Resources,,87
+Barbara,Female,2002-11-26,2026-06-26 05:32:00,82884,6.837,True,Business Development,Barbara Business Development,568
+Judy,Female,2011-04-05,2026-06-26 01:44:00,48668,11.716,True,Product,Judy Product,861
+Lawrence,Male,2011-07-23,2026-06-26 03:41:00,122971,14.618,False,Product,Lawrence Product,210
+Joseph,Male,2010-10-10,2026-06-26 23:12:00,107050,12.737,False,Business Development,Joseph Business Development,341
+Carlos,Male,1981-01-25,2026-06-26 10:00:00,138598,14.737,False,Sales,Carlos Sales,89
+Russell,Unknown,2009-05-09,2026-06-26 11:59:00,149456,3.533,False,Marketing,Russell Marketing,6
+Jane,Female,1999-07-10,2026-06-26 19:02:00,128540,15.941,False,Legal,Jane Legal,163
+Martin,Male,2016-02-25,2026-06-26 18:29:00,61117,2.844,False,Client Services,Martin Client Services,755
+Steven,Male,1980-05-30,2026-06-26 20:25:00,100949,13.813,True,Human Resources,Steven Human Resources,398
+Judy,Unknown,2011-07-15,2026-06-26 15:38:00,46829,5.19,True,Finance,Judy Finance,881
+James,Male,2008-02-16,2026-06-26 02:49:00,69111,14.625,True,Business Development,James Business Development,687
+Gloria,Female,2004-08-19,2026-06-26 10:31:00,46602,1.027,True,Business Development,Gloria Business Development,885
+Ernest,Male,2001-06-30,2026-06-26 13:46:00,61181,16.559,False,Business Development,Ernest Business Development,754
+Martha,Female,1997-07-17,2026-06-26 23:11:00,94963,19.626,True,Business Development,Martha Business Development,456
+Janet,Unknown,1986-01-25,2026-06-26 05:48:00,85789,9.712,False,Legal,Janet Legal,539
+Louis,Unknown,1983-02-05,2026-06-26 18:39:00,145274,16.379,False,Product,Louis Product,34
+Tina,Female,1999-08-06,2026-06-26 03:18:00,102841,3.369,False,Client Services,Tina Client Services,381
+Henry,Male,2007-02-23,2026-06-26 03:24:00,49665,18.338,False,Business Development,Henry Business Development,850
+Antonio,Male,1999-06-06,2026-06-26 22:54:00,41928,5.478,True,Unknown,Antonio Unknown,930
+Lisa,Female,2007-04-11,2026-06-26 01:04:00,128042,2.03,True,Legal,Lisa Legal,166
+Denise,Female,1984-02-19,2026-06-26 06:22:00,86150,3.997,False,Client Services,Denise Client Services,535
+Stephen,Male,1984-10-21,2026-06-26 06:26:00,121816,10.615,True,Distribution,Stephen Distribution,221
+Benjamin,Male,1988-04-12,2026-06-26 23:32:00,123409,7.783,False,Product,Benjamin Product,207
+Carl,Unknown,2007-08-18,2026-06-26 08:01:00,98295,7.617,True,Legal,Carl Legal,420
+Ruth,Female,1980-09-02,2026-06-26 06:52:00,59678,10.895,False,Distribution,Ruth Distribution,770
+Shawn,Male,2006-12-29,2026-06-26 03:05:00,57871,4.02,True,Human Resources,Shawn Human Resources,789
+Jennifer,Female,2015-03-31,2026-06-26 19:43:00,132084,10.006,True,Engineering,Jennifer Engineering,140
+Terry,Male,2004-11-10,2026-06-26 04:33:00,35633,3.947,True,Distribution,Terry Distribution,988
+Jacqueline,Female,2008-07-27,2026-06-26 12:08:00,125298,3.019,True,Legal,Jacqueline Legal,185
+Roger,Male,1988-05-02,2026-06-26 22:04:00,115582,15.343,True,Sales,Roger Sales,265
+Alice,Unknown,1995-04-23,2026-06-26 06:35:00,148339,11.479,True,Finance,Alice Finance,11
+Justin,Male,1991-07-25,2026-06-26 00:45:00,112975,9.699,False,Human Resources,Justin Human Resources,296
+Janet,Female,2008-07-12,2026-06-26 12:10:00,36927,18.769,False,Client Services,Janet Client Services,976
+Robin,Female,2004-03-26,2026-06-26 17:41:00,70248,9.66,True,Sales,Robin Sales,676
+Samuel,Unknown,2002-10-07,2026-06-26 03:08:00,141305,9.849,True,Marketing,Samuel Marketing,65
+Katherine,Female,2006-09-22,2026-06-26 20:08:00,72002,13.178,True,Product,Katherine Product,656
+Peter,Male,1991-05-22,2026-06-26 01:39:00,102577,12.026,True,Product,Peter Product,387
+Lillian,Female,2009-08-14,2026-06-26 05:41:00,113554,18.018,True,Business Development,Lillian Business Development,291
+,Male,1986-10-24,2026-06-26 09:23:00,47176,10.736,,Finance,,875
+,Female,2000-06-18,2026-06-26 07:36:00,106428,10.867,,Unknown,,348
+Rose,Female,1999-11-03,2026-06-26 09:06:00,75181,6.06,True,Finance,Rose Finance,630
+Bobby,Male,2004-09-30,2026-06-26 22:52:00,79047,18.784,False,Human Resources,Bobby Human Resources,603
+Kimberly,Female,1986-04-20,2026-06-26 15:55:00,52970,4.513,False,Sales,Kimberly Sales,819
+Antonio,Male,2003-12-28,2026-06-26 04:17:00,137979,5.266,False,Distribution,Antonio Distribution,90
+Doris,Female,1984-09-08,2026-06-26 19:03:00,114360,17.799,True,Business Development,Doris Business Development,281
+Steven,Male,2009-07-05,2026-06-26 04:55:00,110306,16.843,True,Human Resources,Steven Human Resources,316
+Lawrence,Male,1995-07-03,2026-06-26 22:55:00,46378,9.127,False,Unknown,Lawrence Unknown,887
+,Male,1986-05-06,2026-06-26 16:41:00,74104,17.68,,Client Services,,639
+,Unknown,1991-04-15,2026-06-26 03:39:00,132505,13.592,,Product,,133
+Stephanie,Female,1982-09-14,2026-06-26 08:14:00,96649,3.453,False,Sales,Stephanie Sales,438
+,Female,1982-07-24,2026-06-26 00:00:00,57811,8.941,,Marketing,,790
+Sandra,Female,1989-09-07,2026-06-26 16:17:00,111468,2.58,True,Product,Sandra Product,307
+Kevin,Male,2005-07-01,2026-06-26 15:22:00,141498,4.135,True,Sales,Kevin Sales,61
+Michelle,Unknown,2012-03-31,2026-06-26 06:28:00,124441,16.353,False,Business Development,Michelle Business Development,196
+Lisa,Female,2000-07-08,2026-06-26 21:19:00,40121,6.293,False,Product,Lisa Product,950
+Fred,Male,1989-03-03,2026-06-26 02:27:00,129712,11.058,False,Finance,Fred Finance,157
+Joseph,Male,1982-11-04,2026-06-26 21:46:00,126010,19.601,False,Legal,Joseph Legal,178
+Anne,Unknown,1996-04-18,2026-06-26 23:57:00,122762,9.564,False,Distribution,Anne Distribution,213
+Andrea,Female,1999-07-22,2026-06-26 09:25:00,149105,13.707,True,Distribution,Andrea Distribution,7
+Nicole,Female,2004-03-01,2026-06-26 17:17:00,44021,10.286,False,Unknown,Nicole Unknown,906
+Theresa,Unknown,1995-10-07,2026-06-26 10:16:00,42025,3.319,True,Human Resources,Theresa Human Resources,929
+Catherine,Female,1986-08-31,2026-06-26 18:20:00,59970,12.801,False,Client Services,Catherine Client Services,763
+Rose,Female,1982-12-31,2026-06-26 18:50:00,145001,19.85,False,Engineering,Rose Engineering,36
+Lawrence,Male,1984-10-01,2026-06-26 14:06:00,102589,17.952,True,Marketing,Lawrence Marketing,386
+Raymond,Male,1986-12-12,2026-06-26 12:18:00,47529,2.712,True,Product,Raymond Product,870
+Clarence,Male,1989-08-05,2026-06-26 18:11:00,148941,11.517,False,Product,Clarence Product,9
+Ryan,Male,1988-04-15,2026-06-26 05:18:00,91109,17.499,True,Human Resources,Ryan Human Resources,488
+Jane,Female,1992-01-12,2026-06-26 13:23:00,51923,13.623,False,Business Development,Jane Business Development,826
+Lois,Female,2012-07-28,2026-06-26 11:39:00,53954,19.075,False,Product,Lois Product,814
+Shawn,Male,2008-03-17,2026-06-26 14:12:00,39335,10.664,False,Distribution,Shawn Distribution,954
+Thomas,Male,1990-05-03,2026-06-26 09:29:00,111371,15.081,True,Engineering,Thomas Engineering,309
+Kathryn,Female,2008-01-29,2026-06-26 00:29:00,86676,6.081,False,Sales,Kathryn Sales,527
+Mary,Female,2011-11-06,2026-06-26 08:32:00,115057,2.089,False,Finance,Mary Finance,275
+Julie,Female,1980-03-08,2026-06-26 05:13:00,145357,3.459,False,Engineering,Julie Engineering,31
+George,Male,1995-09-27,2026-06-26 17:04:00,36749,19.754,False,Finance,George Finance,980
+Ralph,Male,2000-02-10,2026-06-26 16:48:00,89854,7.227,False,Business Development,Ralph Business Development,501
+Judith,Female,1989-09-03,2026-06-26 11:16:00,134048,6.818,True,Marketing,Judith Marketing,124
+,Male,1994-12-13,2026-06-26 10:34:00,141311,5.478,,Product,,64
+Evelyn,Female,2002-02-10,2026-06-26 04:44:00,123621,19.767,True,Marketing,Evelyn Marketing,205
+Rachel,Female,2011-06-23,2026-06-26 00:52:00,54941,3.221,True,Distribution,Rachel Distribution,809
+Maria,Unknown,1986-01-18,2026-06-26 20:36:00,106562,4.0,False,Human Resources,Maria Human Resources,346
+Kelly,Female,2007-03-17,2026-06-26 18:20:00,39371,4.068,False,Engineering,Kelly Engineering,953
+Ruby,Female,2008-05-31,2026-06-26 20:41:00,83112,4.083,False,Marketing,Ruby Marketing,566
+Ann,Female,1980-10-03,2026-06-26 01:08:00,96941,10.048,True,Distribution,Ann Distribution,435
+Kenneth,Male,1985-12-14,2026-06-26 06:55:00,47232,17.862,True,Legal,Kenneth Legal,874
+William,Male,1993-11-18,2026-06-26 12:27:00,54058,5.182,True,Human Resources,William Human Resources,811
+,Female,1980-12-27,2026-06-26 02:27:00,80399,12.254,,Distribution,,593
+Deborah,Female,2009-02-26,2026-06-26 10:17:00,118043,7.266,True,Business Development,Deborah Business Development,253
+,Male,2009-11-12,2026-06-26 14:30:00,109411,9.494,,Engineering,,326
+Julia,Female,2014-08-18,2026-06-26 03:12:00,97566,2.147,False,Marketing,Julia Marketing,426
+Robert,Unknown,2000-12-04,2026-06-26 01:20:00,69267,5.89,True,Sales,Robert Sales,683
+,Unknown,1988-08-01,2026-06-26 01:35:00,87103,5.665,,Unknown,,523
+Jesse,Unknown,2014-07-16,2026-06-26 02:24:00,98811,7.487,False,Legal,Jesse Legal,415
+Cynthia,Female,2006-07-12,2026-06-26 08:55:00,149684,7.864,False,Product,Cynthia Product,3
+Johnny,Male,2007-01-14,2026-06-26 14:54:00,71383,2.097,True,Human Resources,Johnny Human Resources,669
+Michael,Male,2002-08-31,2026-06-26 01:20:00,81206,19.908,True,Distribution,Michael Distribution,584
+Kenneth,Male,2015-01-15,2026-06-26 14:41:00,69112,7.588,True,Finance,Kenneth Finance,686
+Keith,Male,2003-02-12,2026-06-26 15:02:00,120672,19.467,False,Legal,Keith Legal,236
+Gerald,Male,2010-05-28,2026-06-26 12:26:00,96511,9.331,False,Human Resources,Gerald Human Resources,441
+Carl,Unknown,1982-02-11,2026-06-26 07:54:00,49325,2.071,True,Business Development,Carl Business Development,857
+Douglas,Male,2007-08-04,2026-06-26 05:23:00,132175,2.28,False,Engineering,Douglas Engineering,138
+Carolyn,Female,2004-03-17,2026-06-26 06:38:00,118037,13.492,False,Finance,Carolyn Finance,254
+Joseph,Male,1985-05-23,2026-06-26 22:16:00,139570,15.804,True,Finance,Joseph Finance,84
+Billy,Male,2000-04-06,2026-06-26 15:14:00,115280,9.153,False,Distribution,Billy Distribution,269
+Joyce,Female,2001-07-25,2026-06-26 06:04:00,51065,16.807,False,Human Resources,Joyce Human Resources,839
+Lillian,Female,2002-08-26,2026-06-26 08:53:00,103854,4.924,True,Distribution,Lillian Distribution,372
+Ruby,Female,2006-08-13,2026-06-26 18:27:00,48354,19.501,False,Business Development,Ruby Business Development,862
+Sandra,Female,1998-02-07,2026-06-26 12:39:00,132327,19.264,False,Product,Sandra Product,137
+Louise,Female,1982-02-26,2026-06-26 01:03:00,106362,8.965,False,Sales,Louise Sales,350
+Maria,Unknown,1985-06-19,2026-06-26 01:48:00,148857,8.738,False,Legal,Maria Legal,10
+Brenda,Female,1981-01-03,2026-06-26 18:01:00,131131,11.682,False,Client Services,Brenda Client Services,147
+Stephen,Male,1990-09-10,2026-06-26 22:42:00,129663,15.574,False,Human Resources,Stephen Human Resources,158
+Nicole,Unknown,1981-05-02,2026-06-26 12:03:00,41449,4.707,False,Finance,Nicole Finance,936
+Bobby,Male,1984-06-05,2026-06-26 07:40:00,93368,2.88,True,Product,Bobby Product,468
+Ernest,Male,1997-09-06,2026-06-26 14:02:00,53335,9.192,False,Product,Ernest Product,817
+Charles,Male,1997-09-03,2026-06-26 10:04:00,148291,6.002,False,Unknown,Charles Unknown,12
+Bobby,Male,1996-08-19,2026-06-26 01:16:00,147842,16.158,True,Unknown,Bobby Unknown,15
+Diana,Female,2004-11-19,2026-06-26 08:47:00,105066,17.343,True,Business Development,Diana Business Development,359
+Mildred,Female,2007-04-06,2026-06-26 22:06:00,139284,11.39,True,Unknown,Mildred Unknown,85
+Harry,Male,1985-02-10,2026-06-26 19:46:00,63046,10.411,False,Finance,Harry Finance,741
+Phillip,Unknown,2003-10-20,2026-06-26 11:09:00,89700,2.277,True,Unknown,Phillip Unknown,505
+Bonnie,Unknown,2006-01-18,2026-06-26 18:52:00,108946,12.211,False,Finance,Bonnie Finance,332
+Marie,Female,1993-12-08,2026-06-26 18:28:00,98406,7.943,True,Product,Marie Product,417
+Sean,Male,2006-04-25,2026-06-26 16:51:00,108581,9.634,False,Human Resources,Sean Human Resources,333
+Robin,Female,2012-10-01,2026-06-26 02:44:00,41808,19.239,False,Business Development,Robin Business Development,932
+Phillip,Male,1984-10-07,2026-06-26 11:05:00,36837,14.66,False,Marketing,Phillip Marketing,978
+Jerry,Male,1989-03-26,2026-06-26 04:15:00,140850,18.855,False,Finance,Jerry Finance,68
+Ronald,Male,1983-05-25,2026-06-26 10:05:00,50426,18.536,True,Sales,Ronald Sales,845
+Phillip,Male,1984-05-15,2026-06-26 06:15:00,134120,6.842,False,Human Resources,Phillip Human Resources,123
+Ryan,Male,2012-11-16,2026-06-26 13:47:00,57292,6.01,False,Unknown,Ryan Unknown,796
+Karen,Female,1997-08-29,2026-06-26 16:56:00,80633,16.306,False,Legal,Karen Legal,592
+Bonnie,Female,2004-08-25,2026-06-26 02:17:00,131943,14.249,False,Client Services,Bonnie Client Services,142
+Earl,Male,2013-06-15,2026-06-26 03:00:00,48046,7.737,False,Marketing,Earl Marketing,865
+Katherine,Female,2013-08-18,2026-06-26 15:58:00,97443,13.657,False,Product,Katherine Product,429
+Matthew,Male,1995-08-03,2026-06-26 05:39:00,135352,7.986,True,Business Development,Matthew Business Development,112
+Cynthia,Unknown,1996-11-19,2026-06-26 22:40:00,107816,18.751,False,Marketing,Cynthia Marketing,335
+Gerald,Male,2003-03-29,2026-06-26 10:37:00,96329,2.469,True,Engineering,Gerald Engineering,442
+Brenda,Female,2015-01-18,2026-06-26 16:39:00,73749,19.332,False,Business Development,Brenda Business Development,643
+Jason,Male,1998-05-01,2026-06-26 18:05:00,75607,4.299,True,Sales,Jason Sales,624
+Melissa,Female,1994-09-08,2026-06-26 04:11:00,98858,3.525,True,Human Resources,Melissa Human Resources,413
+Beverly,Female,1998-04-11,2026-06-26 14:27:00,76485,9.212,True,Engineering,Beverly Engineering,615
+Terry,Unknown,1992-09-11,2026-06-26 16:41:00,41238,8.219,False,Marketing,Terry Marketing,941
+,Male,1980-09-05,2026-06-26 07:36:00,114896,13.823,,Client Services,,276
+Jacqueline,Female,2003-05-25,2026-06-26 19:13:00,125418,8.064,False,Distribution,Jacqueline Distribution,183
+Amy,Female,2009-05-20,2026-06-26 06:26:00,75415,19.132,False,Client Services,Amy Client Services,629
+Robert,Unknown,2007-05-25,2026-06-26 03:17:00,90998,8.382,False,Finance,Robert Finance,489
+Ruby,Female,1980-01-28,2026-06-26 23:08:00,142868,6.318,False,Marketing,Ruby Marketing,49
+Sara,Unknown,2014-11-18,2026-06-26 14:47:00,135990,14.344,True,Distribution,Sara Distribution,107
+Kathryn,Female,1995-10-27,2026-06-26 15:39:00,57300,18.015,False,Marketing,Kathryn Marketing,795
+Lisa,Female,2003-10-17,2026-06-26 13:42:00,73706,18.53,False,Finance,Lisa Finance,644
+Juan,Male,1993-10-06,2026-06-26 08:52:00,85871,9.16,False,Product,Juan Product,536
+Anthony,Male,2014-01-30,2026-06-26 21:04:00,96795,14.837,False,Sales,Anthony Sales,437
+David,Male,2009-12-05,2026-06-26 08:48:00,92242,15.407,False,Legal,David Legal,477
+Marilyn,Female,2007-10-08,2026-06-26 00:32:00,115149,11.934,True,Legal,Marilyn Legal,272
+Margaret,Female,2001-01-04,2026-06-26 03:07:00,126924,1.552,True,Finance,Margaret Finance,174
+,Male,2015-11-24,2026-06-26 03:11:00,145329,7.1,,Finance,,32
+Timothy,Male,1991-08-25,2026-06-26 10:37:00,92587,8.475,False,Finance,Timothy Finance,473
+Brandon,Male,1995-10-23,2026-06-26 12:04:00,60263,2.709,False,Sales,Brandon Sales,761
+Frank,Male,2013-07-27,2026-06-26 16:32:00,91406,5.681,True,Business Development,Frank Business Development,484
+Betty,Female,2002-11-19,2026-06-26 10:40:00,37005,7.645,True,Marketing,Betty Marketing,974
+Janice,Unknown,1991-11-19,2026-06-26 18:02:00,139791,16.968,False,Business Development,Janice Business Development,82
+Victor,Male,2010-03-10,2026-06-26 17:01:00,45267,3.942,True,Sales,Victor Sales,896
+Kenneth,Unknown,1994-02-28,2026-06-26 10:10:00,95296,10.146,False,Finance,Kenneth Finance,452
+Jane,Female,2012-04-27,2026-06-26 14:12:00,59680,15.211,True,Business Development,Jane Business Development,769
+Walter,Male,1992-05-21,2026-06-26 00:39:00,144701,16.323,True,Marketing,Walter Marketing,39
+Christina,Female,2002-06-23,2026-06-26 15:18:00,35477,18.178,False,Human Resources,Christina Human Resources,990
+Patricia,Female,1995-10-10,2026-06-26 16:52:00,119266,6.911,False,Distribution,Patricia Distribution,241
+,Male,2001-05-23,2026-06-26 19:52:00,103877,6.322,,Distribution,,371
+Heather,Female,1983-07-29,2026-06-26 10:48:00,47605,14.955,True,Human Resources,Heather Human Resources,869
+Stephanie,Female,1988-06-26,2026-06-26 05:48:00,136604,6.16,True,Human Resources,Stephanie Human Resources,104
+Alice,Female,2013-02-09,2026-06-26 00:49:00,121250,4.363,True,Finance,Alice Finance,229
+Frances,Female,2014-05-16,2026-06-26 08:31:00,35884,17.667,False,Sales,Frances Sales,986
+Elizabeth,Female,1998-07-27,2026-06-26 11:12:00,137144,10.081,False,Finance,Elizabeth Finance,98
+Janice,Female,2009-12-17,2026-06-26 06:42:00,102697,3.283,False,Engineering,Janice Engineering,383
+Donald,Male,1991-08-01,2026-06-26 02:25:00,61999,6.466,False,Product,Donald Product,750
+Melissa,Female,2002-10-22,2026-06-26 01:20:00,45223,8.879,True,Legal,Melissa Legal,897
+Carl,Male,2010-07-07,2026-06-26 13:33:00,54033,15.528,True,Business Development,Carl Business Development,813
+Joe,Male,1998-12-08,2026-06-26 10:28:00,126120,1.02,False,Unknown,Joe Unknown,177
+Lois,Female,2015-12-11,2026-06-26 16:10:00,99747,6.168,False,Marketing,Lois Marketing,407
+Ann,Female,2001-09-28,2026-06-26 06:37:00,71958,5.272,True,Distribution,Ann Distribution,658
+Todd,Male,1983-01-04,2026-06-26 12:34:00,115566,6.716,True,Client Services,Todd Client Services,266
+Marilyn,Female,1996-01-16,2026-06-26 07:18:00,118369,7.696,True,Business Development,Marilyn Business Development,251
+Shawn,Male,2008-03-13,2026-06-26 17:36:00,51667,6.339,False,Product,Shawn Product,829
+Ryan,Male,1999-04-27,2026-06-26 03:41:00,85858,19.475,False,Client Services,Ryan Client Services,537
+Sean,Male,2009-03-21,2026-06-26 11:38:00,131423,8.957,False,Distribution,Sean Distribution,146
+Rose,Female,2002-01-02,2026-06-26 21:14:00,49538,9.828,False,Client Services,Rose Client Services,852
+George,Male,2015-06-05,2026-06-26 05:40:00,50369,18.9,True,Sales,George Sales,846
+Arthur,Male,2013-12-05,2026-06-26 08:44:00,86615,3.412,True,Business Development,Arthur Business Development,528
+Irene,Unknown,1991-02-28,2026-06-26 22:23:00,135369,4.38,False,Business Development,Irene Business Development,111
+Deborah,Female,2003-11-11,2026-06-26 16:53:00,60003,9.624,False,Client Services,Deborah Client Services,762
+,Female,2000-08-23,2026-06-26 16:19:00,95866,19.388,,Sales,,445
+Judith,Female,2004-03-01,2026-06-26 07:32:00,109324,19.488,False,Distribution,Judith Distribution,327
+Philip,Male,2005-03-11,2026-06-26 10:56:00,103557,16.014,True,Business Development,Philip Business Development,374
+Jeffrey,Male,1986-09-20,2026-06-26 06:06:00,111376,2.673,True,Business Development,Jeffrey Business Development,308
+Theresa,Female,2001-04-27,2026-06-26 21:17:00,75661,1.079,True,Legal,Theresa Legal,623
+Nancy,Female,2001-09-10,2026-06-26 23:57:00,85213,2.386,True,Marketing,Nancy Marketing,547
+Harold,Male,2012-06-23,2026-06-26 12:40:00,140444,3.771,False,Distribution,Harold Distribution,72
+Bonnie,Female,2008-12-23,2026-06-26 09:26:00,90427,2.01,True,Client Services,Bonnie Client Services,497
+Doris,Female,1993-07-05,2026-06-26 17:54:00,141439,3.799,False,Business Development,Doris Business Development,62
+Samuel,Male,1997-08-07,2026-06-26 12:40:00,43694,3.787,True,Engineering,Samuel Engineering,907
+Alice,Female,1996-03-23,2026-06-26 03:09:00,131952,12.09,False,Engineering,Alice Engineering,141
+Maria,Female,2003-03-14,2026-06-26 17:23:00,96250,10.056,False,Business Development,Maria Business Development,443
+Aaron,Unknown,1986-01-22,2026-06-26 19:39:00,63126,18.424,False,Client Services,Aaron Client Services,739
+Mark,Unknown,2006-09-09,2026-06-26 12:27:00,44836,2.657,False,Client Services,Mark Client Services,902
+Ralph,Unknown,1995-07-28,2026-06-26 18:53:00,70635,2.147,False,Client Services,Ralph Client Services,673
+Andrew,Male,1990-09-28,2026-06-26 09:38:00,137386,8.611,True,Distribution,Andrew Distribution,94
+William,Male,1997-06-26,2026-06-26 08:33:00,104840,15.653,True,Engineering,William Engineering,363
+Lori,Female,2015-11-20,2026-06-26 13:15:00,75498,6.537,True,Marketing,Lori Marketing,626
+Wayne,Male,2006-09-08,2026-06-26 11:09:00,67471,2.728,False,Engineering,Wayne Engineering,699
+Kenneth,Male,2006-05-10,2026-06-26 08:24:00,101914,1.905,True,Distribution,Kenneth Distribution,393
+Gerald,Unknown,1989-04-15,2026-06-26 12:44:00,93712,17.426,True,Distribution,Gerald Distribution,466
+,Female,1985-09-15,2026-06-26 01:50:00,133472,16.941,,Distribution,,128
+,Male,2012-07-30,2026-06-26 15:07:00,107351,5.329,,Marketing,,337
+Ashley,Female,2006-03-31,2026-06-26 13:24:00,142410,11.048,True,Engineering,Ashley Engineering,52
+Scott,Male,2011-08-20,2026-06-26 08:08:00,37385,8.226,True,Business Development,Scott Business Development,971
+Paula,Female,1983-05-21,2026-06-26 11:42:00,58423,10.833,False,Business Development,Paula Business Development,781
+,Female,2010-09-14,2026-06-26 05:19:00,143638,9.662,,Unknown,,45
+Teresa,Female,2013-01-22,2026-06-26 15:17:00,113425,11.907,True,Human Resources,Teresa Human Resources,293
+Randy,Male,2012-02-25,2026-06-26 05:33:00,57266,14.077,False,Product,Randy Product,798
+Joe,Male,1980-01-19,2026-06-26 16:06:00,119667,1.148,True,Finance,Joe Finance,240
+Sarah,Female,2014-08-17,2026-06-26 23:08:00,127118,11.176,False,Legal,Sarah Legal,172
+Beverly,Female,1986-10-17,2026-06-26 00:51:00,80838,8.115,False,Engineering,Beverly Engineering,588
+Jeffrey,Male,1984-02-03,2026-06-26 13:26:00,70990,15.901,True,Sales,Jeffrey Sales,671
+Gloria,Female,1987-10-24,2026-06-26 04:43:00,39833,9.631,False,Engineering,Gloria Engineering,952
+Albert,Male,1992-09-19,2026-06-26 02:35:00,45094,5.85,True,Business Development,Albert Business Development,900
+Stephen,Male,1989-10-29,2026-06-26 23:34:00,93997,18.093,True,Business Development,Stephen Business Development,462
+Antonio,Unknown,1989-06-18,2026-06-26 21:37:00,103050,3.05,False,Legal,Antonio Legal,380
+Jonathan,Male,2013-08-21,2026-06-26 00:45:00,121797,16.923,False,Product,Jonathan Product,222
+Ann,Female,1994-09-23,2026-06-26 11:15:00,89443,17.94,True,Sales,Ann Sales,507
+Bruce,Male,1980-05-07,2026-06-26 20:00:00,35802,12.391,True,Sales,Bruce Sales,987
+Catherine,Female,1989-09-25,2026-06-26 01:31:00,68164,18.393,False,Client Services,Catherine Client Services,692
+Louis,Male,2011-08-16,2026-06-26 17:19:00,93022,9.146,True,Human Resources,Louis Human Resources,471
+Thomas,Male,2016-03-12,2026-06-26 15:10:00,105681,19.572,False,Engineering,Thomas Engineering,357
+Louise,Female,1995-03-27,2026-06-26 22:27:00,43050,11.671,False,Distribution,Louise Distribution,915
+Linda,Female,2010-02-04,2026-06-26 20:49:00,44486,17.308,True,Engineering,Linda Engineering,905
+Alice,Female,1988-09-03,2026-06-26 20:54:00,63571,15.397,True,Product,Alice Product,734
+Patrick,Male,2002-12-30,2026-06-26 02:01:00,75423,5.368,True,Business Development,Patrick Business Development,628
+Victor,Unknown,2006-07-28,2026-06-26 14:49:00,76381,11.159,True,Sales,Victor Sales,618
+Russell,Male,2013-05-10,2026-06-26 23:08:00,137359,11.105,False,Business Development,Russell Business Development,95
+Harry,Male,2011-08-30,2026-06-26 18:31:00,67656,16.455,True,Client Services,Harry Client Services,698
+Susan,Female,1995-04-07,2026-06-26 22:05:00,92436,12.467,False,Sales,Susan Sales,475
+Denise,Female,1992-10-19,2026-06-26 05:42:00,137954,4.195,True,Legal,Denise Legal,91
+Sarah,Female,1995-12-04,2026-06-26 09:16:00,124566,5.949,False,Product,Sarah Product,193
+Sean,Male,1983-01-17,2026-06-26 14:23:00,66146,11.178,False,Human Resources,Sean Human Resources,711
+Ernest,Male,2013-07-20,2026-06-26 06:41:00,142935,13.198,True,Product,Ernest Product,48
+Kimberly,Female,2013-01-26,2026-06-26 00:57:00,46233,8.862,True,Engineering,Kimberly Engineering,889
+James,Male,1993-01-15,2026-06-26 17:19:00,148985,19.28,False,Legal,James Legal,8
+Rose,Female,1982-04-06,2026-06-26 10:43:00,91411,8.639,True,Human Resources,Rose Human Resources,483
+John,Male,1982-12-23,2026-06-26 22:35:00,146907,11.738,False,Engineering,John Engineering,23
+Maria,Female,2011-10-15,2026-06-26 16:53:00,43455,13.04,False,Engineering,Maria Engineering,910
+Stephen,Unknown,1983-07-10,2026-06-26 20:10:00,85668,1.909,False,Legal,Stephen Legal,543
+Donna,Female,1982-11-26,2026-06-26 07:04:00,82871,17.999,False,Marketing,Donna Marketing,570
+Gloria,Female,2014-12-08,2026-06-26 05:08:00,136709,10.331,True,Finance,Gloria Finance,101
+Alice,Female,2004-10-05,2026-06-26 09:34:00,47638,11.209,False,Human Resources,Alice Human Resources,868
+Justin,Unknown,1991-02-10,2026-06-26 16:58:00,38344,3.794,False,Legal,Justin Legal,959
+Robin,Female,1987-07-24,2026-06-26 13:35:00,100765,10.982,True,Client Services,Robin Client Services,401
+Rose,Female,2002-08-25,2026-06-26 05:12:00,134505,11.051,True,Marketing,Rose Marketing,120
+Anthony,Male,2011-10-16,2026-06-26 08:35:00,112769,11.625,True,Finance,Anthony Finance,298
+Tina,Female,1997-05-15,2026-06-26 15:53:00,56450,19.04,True,Engineering,Tina Engineering,804
+George,Male,2013-06-21,2026-06-26 17:47:00,98874,4.479,True,Marketing,George Marketing,411
+Henry,Unknown,2014-11-23,2026-06-26 06:09:00,132483,16.655,False,Distribution,Henry Distribution,134
+Phillip,Male,1984-01-31,2026-06-26 06:30:00,42392,19.675,False,Finance,Phillip Finance,921
+Russell,Male,2013-05-20,2026-06-26 12:39:00,96914,1.421,False,Product,Russell Product,436
+Larry,Male,2013-04-20,2026-06-26 16:45:00,60500,11.985,False,Business Development,Larry Business Development,757
+Albert,Male,2012-05-15,2026-06-26 18:24:00,129949,10.169,True,Sales,Albert Sales,156
